@@ -1,5 +1,5 @@
 {
-  "generated": "2026-01-02T16:17:26.974Z",
+  "generated": "2026-01-02T16:21:25.547Z",
   "tracks": [
     {
       "artist": "112",
@@ -18,6 +18,69 @@
       "format": "mp3",
       "size": "4.7MB",
       "path": "acapella/112/112, Super Cat - Na Na Na Na - BPM 99 - F# Minor.mp3"
+    },
+    {
+      "artist": "Baby Keem",
+      "title": "baby keem - buss her up [acapella].mp3",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "mp3",
+      "size": "4.0MB",
+      "path": "acapella/Baby Keem/baby keem - buss her up [acapella].mp3"
+    },
+    {
+      "artist": "Baby Keem",
+      "title": "baby keem - hooligan.mp3",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "mp3",
+      "size": "2.8MB",
+      "path": "acapella/Baby Keem/baby keem - hooligan.mp3"
+    },
+    {
+      "artist": "Baby Keem",
+      "title": "baby keem - savior interlude (acapella).mp3",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "mp3",
+      "size": "3.6MB",
+      "path": "acapella/Baby Keem/baby keem - savior interlude (acapella).mp3"
+    },
+    {
+      "artist": "Baby Keem",
+      "title": "baby keem, kendrick lamar - family ties [part 1] (acapella).mp3",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "mp3",
+      "size": "2.7MB",
+      "path": "acapella/Baby Keem/baby keem, kendrick lamar - family ties [part 1] (acapella).mp3"
+    },
+    {
+      "artist": "Baby Keem",
+      "title": "baby keem, kendrick lamar - family ties [part 2] (acapella).mp3",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "mp3",
+      "size": "2.5MB",
+      "path": "acapella/Baby Keem/baby keem, kendrick lamar - family ties [part 2] (acapella).mp3"
+    },
+    {
+      "artist": "Baby Keem",
+      "title": "baby keem, kendrick lamar - range brothers.mp3",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "mp3",
+      "size": "6.8MB",
+      "path": "acapella/Baby Keem/baby keem, kendrick lamar - range brothers.mp3"
+    },
+    {
+      "artist": "Baby Keem",
+      "title": "baby keem, travis scott - durag activity (161).mp3",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "mp3",
+      "size": "3.5MB",
+      "path": "acapella/Baby Keem/baby keem, travis scott - durag activity (161).mp3"
     }
   ]
 }
