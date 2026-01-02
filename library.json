@@ -1,0 +1,23 @@
+{
+  "generated": "2026-01-02T16:17:26.974Z",
+  "tracks": [
+    {
+      "artist": "112",
+      "title": "112 - Dance Wit Me (Feat. Beanie Sigel) - BPM 102 - C# Minor.mp3",
+      "bpm": 0,
+      "key": "C",
+      "format": "mp3",
+      "size": "6.7MB",
+      "path": "acapella/112/112 - Dance Wit Me (Feat. Beanie Sigel) - BPM 102 - C# Minor.mp3"
+    },
+    {
+      "artist": "112",
+      "title": "112, Super Cat - Na Na Na Na - BPM 99 - F# Minor.mp3",
+      "bpm": 0,
+      "key": "F",
+      "format": "mp3",
+      "size": "4.7MB",
+      "path": "acapella/112/112, Super Cat - Na Na Na Na - BPM 99 - F# Minor.mp3"
+    }
+  ]
+}
