@@ -3,7 +3,7 @@ name: Update Library JSON
 on:
   push:
     paths:
-      # Trigger 1: When you add music
+      # Trigger 1: When you add musi
       - 'acapella/**'
       # Trigger 2: When you edit the scanner script
       - 'generate_library.js'
