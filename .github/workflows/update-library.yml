@@ -1,0 +1,37 @@
+name: Update Library JSON
+
+on:
+  push:
+    paths:
+      # Trigger 1: When you add music
+      - 'acapella/**'
+      # Trigger 2: When you edit the scanner script
+      - 'generate_library.js'
+      # Trigger 3: When you edit this config file (So you can test by pushing this file)
+      - '.github/workflows/update-library.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+
+    - name: Run Scanner Script
+      # This command must match your file name exactly
+      run: node generate_library.js
+
+    - name: Commit and Push Changes
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: "🤖 Auto-update library.json [skip ci]"
+        file_pattern: 'library.json'
