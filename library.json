@@ -1,5 +1,5 @@
 {
-  "generated": "2026-01-02T20:03:45.294Z",
+  "generated": "2026-01-03T12:15:01.223Z",
   "tracks": [
     {
       "artist": "$not",
@@ -495,6 +495,510 @@
       "format": "mp3",
       "size": "6.2MB",
       "path": "acapella/Big Sean/Big Sean L.A. Leakers Freestyle.mp3"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Billie Eilish & Rosalía - Lo Vas A Olvidar.m4a",
+      "bpm": 0,
+      "key": "A",
+      "format": "m4a",
+      "size": "3.0MB",
+      "path": "acapella/Billie Eilish/Billie Eilish & Rosalía - Lo Vas A Olvidar.m4a"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Billie Eilish - 8.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.7MB",
+      "path": "acapella/Billie Eilish/Billie Eilish - 8.m4a"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Billie Eilish - All The Good Girls Go To Hell.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.3MB",
+      "path": "acapella/Billie Eilish/Billie Eilish - All The Good Girls Go To Hell.m4a"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Billie Eilish - Bad Guy.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.0MB",
+      "path": "acapella/Billie Eilish/Billie Eilish - Bad Guy.m4a"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Billie Eilish - Bellyache.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.8MB",
+      "path": "acapella/Billie Eilish/Billie Eilish - Bellyache.m4a"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Billie Eilish - Billie Bossa Nova.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.0MB",
+      "path": "acapella/Billie Eilish/Billie Eilish - Billie Bossa Nova.m4a"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Billie Eilish - Birds Of A Feather.m4a",
+      "bpm": 0,
+      "key": "A",
+      "format": "m4a",
+      "size": "3.2MB",
+      "path": "acapella/Billie Eilish/Billie Eilish - Birds Of A Feather.m4a"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Billie Eilish - Bitches Broken Hearts.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.8MB",
+      "path": "acapella/Billie Eilish/Billie Eilish - Bitches Broken Hearts.m4a"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Billie Eilish - Bittersuite.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "4.6MB",
+      "path": "acapella/Billie Eilish/Billie Eilish - Bittersuite.m4a"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Billie Eilish - Blue.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "5.3MB",
+      "path": "acapella/Billie Eilish/Billie Eilish - Blue.m4a"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Billie Eilish - Bored.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.8MB",
+      "path": "acapella/Billie Eilish/Billie Eilish - Bored.m4a"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Billie Eilish - Chihiro.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "4.7MB",
+      "path": "acapella/Billie Eilish/Billie Eilish - Chihiro.m4a"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Billie Eilish - Come Out And Play .m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.3MB",
+      "path": "acapella/Billie Eilish/Billie Eilish - Come Out And Play .m4a"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Billie Eilish - Everybody Dies.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.2MB",
+      "path": "acapella/Billie Eilish/Billie Eilish - Everybody Dies.m4a"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Billie Eilish - Everything I Wanted.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.8MB",
+      "path": "acapella/Billie Eilish/Billie Eilish - Everything I Wanted.m4a"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Billie Eilish - Getting Older.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.8MB",
+      "path": "acapella/Billie Eilish/Billie Eilish - Getting Older.m4a"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Billie Eilish - Goldwing .m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.4MB",
+      "path": "acapella/Billie Eilish/Billie Eilish - Goldwing .m4a"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Billie Eilish - Goodbye.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "1.9MB",
+      "path": "acapella/Billie Eilish/Billie Eilish - Goodbye.m4a"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Billie Eilish - Halley’s Comet .m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.7MB",
+      "path": "acapella/Billie Eilish/Billie Eilish - Halley’s Comet .m4a"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Billie Eilish - Happier Than Ever .m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "4.6MB",
+      "path": "acapella/Billie Eilish/Billie Eilish - Happier Than Ever .m4a"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Billie Eilish - Hostage.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.5MB",
+      "path": "acapella/Billie Eilish/Billie Eilish - Hostage.m4a"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Billie Eilish - I Didn't Change My Number .m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.5MB",
+      "path": "acapella/Billie Eilish/Billie Eilish - I Didn't Change My Number .m4a"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Billie Eilish - I Love You.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "4.3MB",
+      "path": "acapella/Billie Eilish/Billie Eilish - I Love You.m4a"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Billie Eilish - Ilomilo.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.2MB",
+      "path": "acapella/Billie Eilish/Billie Eilish - Ilomilo.m4a"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Billie Eilish - Listen Before I Go.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.8MB",
+      "path": "acapella/Billie Eilish/Billie Eilish - Listen Before I Go.m4a"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Billie Eilish - Lost Cause .m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.3MB",
+      "path": "acapella/Billie Eilish/Billie Eilish - Lost Cause .m4a"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Billie Eilish - Lunch.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.8MB",
+      "path": "acapella/Billie Eilish/Billie Eilish - Lunch.m4a"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Billie Eilish - L’Amour De Ma Vie.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "5.2MB",
+      "path": "acapella/Billie Eilish/Billie Eilish - L’Amour De Ma Vie.m4a"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Billie Eilish - Male Fantasy .m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.1MB",
+      "path": "acapella/Billie Eilish/Billie Eilish - Male Fantasy .m4a"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Billie Eilish - My Boy.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.6MB",
+      "path": "acapella/Billie Eilish/Billie Eilish - My Boy.m4a"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Billie Eilish - My Future .m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.3MB",
+      "path": "acapella/Billie Eilish/Billie Eilish - My Future .m4a"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Billie Eilish - My Strange Addiction.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.8MB",
+      "path": "acapella/Billie Eilish/Billie Eilish - My Strange Addiction.m4a"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Billie Eilish - Nda .m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.1MB",
+      "path": "acapella/Billie Eilish/Billie Eilish - Nda .m4a"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Billie Eilish - No Time To Die .m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.7MB",
+      "path": "acapella/Billie Eilish/Billie Eilish - No Time To Die .m4a"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Billie Eilish - Not My Responsibility.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.5MB",
+      "path": "acapella/Billie Eilish/Billie Eilish - Not My Responsibility.m4a"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Billie Eilish - Ocean Eyes.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.8MB",
+      "path": "acapella/Billie Eilish/Billie Eilish - Ocean Eyes.m4a"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Billie Eilish - Overheated.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.5MB",
+      "path": "acapella/Billie Eilish/Billie Eilish - Overheated.m4a"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Billie Eilish - Oxytocin.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.3MB",
+      "path": "acapella/Billie Eilish/Billie Eilish - Oxytocin.m4a"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Billie Eilish - Six Feet Under.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.0MB",
+      "path": "acapella/Billie Eilish/Billie Eilish - Six Feet Under.m4a"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Billie Eilish - Skinny.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.4MB",
+      "path": "acapella/Billie Eilish/Billie Eilish - Skinny.m4a"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Billie Eilish - Superstar.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.8MB",
+      "path": "acapella/Billie Eilish/Billie Eilish - Superstar.m4a"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Billie Eilish - The Diner.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.9MB",
+      "path": "acapella/Billie Eilish/Billie Eilish - The Diner.m4a"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Billie Eilish - The Greatest.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "4.5MB",
+      "path": "acapella/Billie Eilish/Billie Eilish - The Greatest.m4a"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Billie Eilish - Therefore I Am.m4a",
+      "bpm": 0,
+      "key": "Am",
+      "format": "m4a",
+      "size": "2.7MB",
+      "path": "acapella/Billie Eilish/Billie Eilish - Therefore I Am.m4a"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Billie Eilish - Tv.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "4.3MB",
+      "path": "acapella/Billie Eilish/Billie Eilish - Tv.m4a"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Billie Eilish - Watch.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.7MB",
+      "path": "acapella/Billie Eilish/Billie Eilish - Watch.m4a"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Billie Eilish - What Was I Made For.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.4MB",
+      "path": "acapella/Billie Eilish/Billie Eilish - What Was I Made For.m4a"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Billie Eilish - When I Was Older.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.7MB",
+      "path": "acapella/Billie Eilish/Billie Eilish - When I Was Older.m4a"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Billie Eilish - When The Party's Over  .m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.2MB",
+      "path": "acapella/Billie Eilish/Billie Eilish - When The Party's Over  .m4a"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Billie Eilish - Wildflower.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "4.0MB",
+      "path": "acapella/Billie Eilish/Billie Eilish - Wildflower.m4a"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Billie Eilish - Your Power .m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.9MB",
+      "path": "acapella/Billie Eilish/Billie Eilish - Your Power .m4a"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Billie Eilish, Khalid - Lovely.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.1MB",
+      "path": "acapella/Billie Eilish/Billie Eilish, Khalid - Lovely.m4a"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Charli Xcx - Guess With Billie Eilish .m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.2MB",
+      "path": "acapella/Billie Eilish/Charli Xcx - Guess With Billie Eilish .m4a"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Idontwannabeyouanymore.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.1MB",
+      "path": "acapella/Billie Eilish/Idontwannabeyouanymore.m4a"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "Labrinth - Never Felt So Alone.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.5MB",
+      "path": "acapella/Billie Eilish/Labrinth - Never Felt So Alone.m4a"
+    },
+    {
+      "artist": "Billie Eilish",
+      "title": "You Should See Me In A Crown.m4a",
+      "bpm": 0,
+      "key": "A",
+      "format": "m4a",
+      "size": "2.8MB",
+      "path": "acapella/Billie Eilish/You Should See Me In A Crown.m4a"
     },
     {
       "artist": "Billy Idol",
