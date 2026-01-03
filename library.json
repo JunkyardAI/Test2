@@ -1,6 +1,51 @@
 {
-  "generated": "2026-01-02T16:48:48.850Z",
+  "generated": "2026-01-02T20:03:45.294Z",
   "tracks": [
+    {
+      "artist": "$not",
+      "title": "$not - Gosha.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "1.9MB",
+      "path": "acapella/$not/$not - Gosha.m4a"
+    },
+    {
+      "artist": "$not",
+      "title": "$not - High Iq.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.7MB",
+      "path": "acapella/$not/$not - High Iq.m4a"
+    },
+    {
+      "artist": "$uicideboy$",
+      "title": "$uicideboy$ - Are You Going To See The Rose In The Vase, Or The Dust On The Table.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.3MB",
+      "path": "acapella/$uicideboy$/$uicideboy$ - Are You Going To See The Rose In The Vase, Or The Dust On The Table.m4a"
+    },
+    {
+      "artist": "$uicideboy$",
+      "title": "$uicideboy$ - Paris.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "1.7MB",
+      "path": "acapella/$uicideboy$/$uicideboy$ - Paris.m4a"
+    },
+    {
+      "artist": "$uicideboy$",
+      "title": "$uicideboy$ - Us Vs. Them.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.9MB",
+      "path": "acapella/$uicideboy$/$uicideboy$ - Us Vs. Them.m4a"
+    },
     {
       "artist": "112",
       "title": "112 - Dance Wit Me (Feat. Beanie Sigel) - BPM 102 - C# Minor.mp3",
@@ -29,6 +74,15 @@
       "path": "acapella/21 Savage/21 Savage - 1.5 - BPM 84_168 - C# Major.mp3"
     },
     {
+      "artist": "3 +1",
+      "title": "3 +1 - Never Give Up (ft Jerry Gozie).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "0.3MB",
+      "path": "acapella/3 +1/3 +1 - Never Give Up (ft Jerry Gozie).m4a"
+    },
+    {
       "artist": "50 Cent",
       "title": "50 Cent - P.I.M.P -BPM 79_158 - Bb Minor.mp3",
       "bpm": 0,
@@ -45,6 +99,15 @@
       "format": "mp3",
       "size": "3.0MB",
       "path": "acapella/50 Cent/50 Cent, Nate Dogg - 21 Questions - BPM 90 - F# Minor.mp3"
+    },
+    {
+      "artist": "A Flock Of Seagulls",
+      "title": "A Flock Of Seagulls – I Ran So Far Away.m4a",
+      "bpm": 0,
+      "key": "A",
+      "format": "m4a",
+      "size": "2.4MB",
+      "path": "acapella/A Flock Of Seagulls/A Flock Of Seagulls – I Ran So Far Away.m4a"
     },
     {
       "artist": "ASAP Rocky",
@@ -72,6 +135,33 @@
       "format": "wav",
       "size": "49.9MB",
       "path": "acapella/Aaliyah/Aaliyah - Rock The Boat (Acapella).wav"
+    },
+    {
+      "artist": "Addison Rae",
+      "title": "Addison Rae - Diet Pepsi.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.6MB",
+      "path": "acapella/Addison Rae/Addison Rae - Diet Pepsi.m4a"
+    },
+    {
+      "artist": "Alanis Morissette",
+      "title": "Alanis Morissette - You Oughta Know.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "1.0MB",
+      "path": "acapella/Alanis Morissette/Alanis Morissette - You Oughta Know.m4a"
+    },
+    {
+      "artist": "Alexandra",
+      "title": "Alexandra Prince, Mark Lower - Always On My Mind.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "0.3MB",
+      "path": "acapella/Alexandra/Alexandra Prince, Mark Lower - Always On My Mind.m4a"
     },
     {
       "artist": "Alicia Keys",
@@ -263,6 +353,15 @@
       "path": "acapella/Aries/aries - sayonara (acapella).mp3"
     },
     {
+      "artist": "Ashford & Simpson",
+      "title": "Ashford & Simpson - Over And Over.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "1.9MB",
+      "path": "acapella/Ashford & Simpson/Ashford & Simpson - Over And Over.m4a"
+    },
+    {
       "artist": "Baby Keem",
       "title": "baby keem - buss her up [acapella].mp3",
       "bpm": 0,
@@ -326,6 +425,60 @@
       "path": "acapella/Baby Keem/baby keem, travis scott - durag activity (161).mp3"
     },
     {
+      "artist": "Bad Bunny",
+      "title": "Bad Bunny - Dtmf.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.8MB",
+      "path": "acapella/Bad Bunny/Bad Bunny - Dtmf.m4a"
+    },
+    {
+      "artist": "Barbara Tucker",
+      "title": "Barbara Tucker - Beautiful People.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "0.3MB",
+      "path": "acapella/Barbara Tucker/Barbara Tucker - Beautiful People.m4a"
+    },
+    {
+      "artist": "Barry White",
+      "title": "Barry White - Can't Get Enough Of Your Love Babe.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.4MB",
+      "path": "acapella/Barry White/Barry White - Can't Get Enough Of Your Love Babe.m4a"
+    },
+    {
+      "artist": "Barry White",
+      "title": "Barry White - Let The Music Play.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.3MB",
+      "path": "acapella/Barry White/Barry White - Let The Music Play.m4a"
+    },
+    {
+      "artist": "Barry White",
+      "title": "Barry White - Love Unlimited Orchestra Midnight & You.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.3MB",
+      "path": "acapella/Barry White/Barry White - Love Unlimited Orchestra Midnight & You.m4a"
+    },
+    {
+      "artist": "Beabadoobee",
+      "title": "Beabadoobee - Real Man.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.5MB",
+      "path": "acapella/Beabadoobee/Beabadoobee - Real Man.m4a"
+    },
+    {
       "artist": "Beyonce",
       "title": "Beyonce - Kitty Kat (Acapella) (Filtered) - BPM 158 - C# Major.mp3",
       "bpm": 0,
@@ -342,6 +495,24 @@
       "format": "mp3",
       "size": "6.2MB",
       "path": "acapella/Big Sean/Big Sean L.A. Leakers Freestyle.mp3"
+    },
+    {
+      "artist": "Billy Idol",
+      "title": "Billy Idol - Eyes Without A Face.m4a",
+      "bpm": 0,
+      "key": "A",
+      "format": "m4a",
+      "size": "1.2MB",
+      "path": "acapella/Billy Idol/Billy Idol - Eyes Without A Face.m4a"
+    },
+    {
+      "artist": "Billy Squier",
+      "title": "Billy Squier - The Stroke.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "0.3MB",
+      "path": "acapella/Billy Squier/Billy Squier - The Stroke.m4a"
     },
     {
       "artist": "Blackie",
@@ -369,6 +540,24 @@
       "format": "mp3",
       "size": "4.6MB",
       "path": "acapella/BlocBoyJB/BlocBoy JB - Look Alive (feat. Drake) - BPM 140 - Bb Major.mp3"
+    },
+    {
+      "artist": "Blood Orange",
+      "title": "Blood Orange - Champagne Coast.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "4.6MB",
+      "path": "acapella/Blood Orange/Blood Orange - Champagne Coast.m4a"
+    },
+    {
+      "artist": "Bobby Thurston",
+      "title": "Bobby Thurston - I Know You Feel Like I Feel.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "1.2MB",
+      "path": "acapella/Bobby Thurston/Bobby Thurston - I Know You Feel Like I Feel.m4a"
     },
     {
       "artist": "Brent Faiyaz",
@@ -407,6 +596,33 @@
       "path": "acapella/Brent Faiyaz/Sonder - Too Fast - BPM 99 - E Minor.mp3"
     },
     {
+      "artist": "Britney Spears",
+      "title": "Britney Spears - Don’t Keep Me Waiting Remix.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "0.7MB",
+      "path": "acapella/Britney Spears/Britney Spears - Don’t Keep Me Waiting Remix.m4a"
+    },
+    {
+      "artist": "Britney Spears",
+      "title": "Britney Spears - How I Roll Remix.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "0.8MB",
+      "path": "acapella/Britney Spears/Britney Spears - How I Roll Remix.m4a"
+    },
+    {
+      "artist": "Bruno Mars",
+      "title": "Bruno Mars - Locked Out Of Heaven.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "1.4MB",
+      "path": "acapella/Bruno Mars/Bruno Mars - Locked Out Of Heaven.m4a"
+    },
+    {
       "artist": "Bryson Tiller",
       "title": "Bryson Tiller - Finesse (Drake Cover) - BPM 95 - C Minor.mp3",
       "bpm": 0,
@@ -423,6 +639,15 @@
       "format": "mp3",
       "size": "11.5MB",
       "path": "acapella/Bryson Tiller/Bryson Tiller - Right My Wrongs - BPM 133 - C# Major.mp3"
+    },
+    {
+      "artist": "Bryson Tiller",
+      "title": "Bryson Tiller - Whatever She Wants.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.5MB",
+      "path": "acapella/Bryson Tiller/Bryson Tiller - Whatever She Wants.m4a"
     },
     {
       "artist": "Burna Boy",
@@ -470,6 +695,24 @@
       "path": "acapella/Cardi B/Cardi B - WAP (feat. Megan Thee Stallion) - BPM 133 - C# Major .mp3"
     },
     {
+      "artist": "Carl Bean",
+      "title": "Carl Bean - I Was Born This Way.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "1.3MB",
+      "path": "acapella/Carl Bean/Carl Bean - I Was Born This Way.m4a"
+    },
+    {
+      "artist": "Carly Rae Jepsen",
+      "title": "Carly Rae Jepsen - To Much.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "0.3MB",
+      "path": "acapella/Carly Rae Jepsen/Carly Rae Jepsen - To Much.m4a"
+    },
+    {
       "artist": "Cassie",
       "title": "Cassie - Me & U (Alternate) - BPM 100 - Ab Minor.mp3",
       "bpm": 0,
@@ -486,6 +729,69 @@
       "format": "mp3",
       "size": "7.4MB",
       "path": "acapella/Cassie/Cassie - Me & U - BPM 100 - Ab Minor.mp3"
+    },
+    {
+      "artist": "Central Cee",
+      "title": "Central Cee - Doja.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "1.6MB",
+      "path": "acapella/Central Cee/Central Cee - Doja.m4a"
+    },
+    {
+      "artist": "Chaka Khan",
+      "title": "Chaka Khan - I Know You I Live You.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.1MB",
+      "path": "acapella/Chaka Khan/Chaka Khan - I Know You I Live You.m4a"
+    },
+    {
+      "artist": "Change",
+      "title": "Change - It's A Girl's Affair.m4a",
+      "bpm": 0,
+      "key": "A",
+      "format": "m4a",
+      "size": "1.5MB",
+      "path": "acapella/Change/Change - It's A Girl's Affair.m4a"
+    },
+    {
+      "artist": "Charli Xcx",
+      "title": "Charli Xcx - Blame It On U.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "0.3MB",
+      "path": "acapella/Charli Xcx/Charli Xcx - Blame It On U.m4a"
+    },
+    {
+      "artist": "Charli Xcx",
+      "title": "Charli Xcx - Emotional.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "0.2MB",
+      "path": "acapella/Charli Xcx/Charli Xcx - Emotional.m4a"
+    },
+    {
+      "artist": "Cheryl",
+      "title": "Cheryl - Lynn Got To Be Real.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.4MB",
+      "path": "acapella/Cheryl/Cheryl - Lynn Got To Be Real.m4a"
+    },
+    {
+      "artist": "Chicane",
+      "title": "Chicane Autumn Tactics.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "0.4MB",
+      "path": "acapella/Chicane/Chicane Autumn Tactics.m4a"
     },
     {
       "artist": "Chris Brown",
@@ -531,60 +837,6 @@
       "format": "mp3",
       "size": "3.4MB",
       "path": "acapella/Ciara/Ciara - Overdose - BPM 107 - Ab Major.mp3"
-    },
-    {
-      "artist": "Crow Billiken - If I don't have red I use blue",
-      "title": "1.Crow Billiken - Illini Blues.mp3",
-      "bpm": 0,
-      "key": "Unknown",
-      "format": "mp3",
-      "size": "2.9MB",
-      "path": "acapella/Crow Billiken - If I don't have red I use blue/1.Crow Billiken - Illini Blues.mp3"
-    },
-    {
-      "artist": "Crow Billiken - If I don't have red I use blue",
-      "title": "2.Crow Billiken - Catfish Blues.mp3",
-      "bpm": 0,
-      "key": "Unknown",
-      "format": "mp3",
-      "size": "2.8MB",
-      "path": "acapella/Crow Billiken - If I don't have red I use blue/2.Crow Billiken - Catfish Blues.mp3"
-    },
-    {
-      "artist": "Crow Billiken - If I don't have red I use blue",
-      "title": "3.Crow Billiken - All Star Team.mp3",
-      "bpm": 0,
-      "key": "Unknown",
-      "format": "mp3",
-      "size": "3.1MB",
-      "path": "acapella/Crow Billiken - If I don't have red I use blue/3.Crow Billiken - All Star Team.mp3"
-    },
-    {
-      "artist": "Crow Billiken - If I don't have red I use blue",
-      "title": "4.Crow Billiken - New Blues.mp3",
-      "bpm": 0,
-      "key": "Unknown",
-      "format": "mp3",
-      "size": "3.7MB",
-      "path": "acapella/Crow Billiken - If I don't have red I use blue/4.Crow Billiken - New Blues.mp3"
-    },
-    {
-      "artist": "Crow Billiken - If I don't have red I use blue",
-      "title": "5.Crow Billiken - 61 Highway.mp3",
-      "bpm": 0,
-      "key": "Unknown",
-      "format": "mp3",
-      "size": "4.7MB",
-      "path": "acapella/Crow Billiken - If I don't have red I use blue/5.Crow Billiken - 61 Highway.mp3"
-    },
-    {
-      "artist": "Crow Billiken - If I don't have red I use blue",
-      "title": "6.Crow Billiken - Up Late wit the Old Preacher.mp3",
-      "bpm": 0,
-      "key": "Unknown",
-      "format": "mp3",
-      "size": "2.6MB",
-      "path": "acapella/Crow Billiken - If I don't have red I use blue/6.Crow Billiken - Up Late wit the Old Preacher.mp3"
     },
     {
       "artist": "D'Angelo",
@@ -659,6 +911,24 @@
       "path": "acapella/Daniel Caesar/Daniel Caesar - Cyanide - BPM 158 - Bb Major .mp3"
     },
     {
+      "artist": "Debarge",
+      "title": "Debarge - I Like It.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "1.8MB",
+      "path": "acapella/Debarge/Debarge - I Like It.m4a"
+    },
+    {
+      "artist": "Degrees",
+      "title": "Degrees Of Motion Shine On ( And )_865996939 Site (1).mp3",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "mp3",
+      "size": "0.1MB",
+      "path": "acapella/Degrees/Degrees Of Motion Shine On ( And )_865996939 Site (1).mp3"
+    },
+    {
       "artist": "Diggy",
       "title": "Diggy - Text Me (feat. Leven Kali) - BPM 86 - Ab Major.mp3",
       "bpm": 0,
@@ -696,6 +966,24 @@
     },
     {
       "artist": "Don Toliver",
+      "title": "Don Toliver - New Drop.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.4MB",
+      "path": "acapella/Don Toliver/Don Toliver - New Drop.m4a"
+    },
+    {
+      "artist": "Don Toliver",
+      "title": "Don Toliver - Private Landing (feat. Justin Bieber, Future).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.7MB",
+      "path": "acapella/Don Toliver/Don Toliver - Private Landing (feat. Justin Bieber, Future).m4a"
+    },
+    {
+      "artist": "Don Toliver",
       "title": "don toliver, lil uzi vert, gunna - his and hers.mp3",
       "bpm": 0,
       "key": "Unknown",
@@ -720,6 +1008,60 @@
       "format": "mp3",
       "size": "8.2MB",
       "path": "acapella/Don Toliver/don toliver, travis scott - you (118).mp3"
+    },
+    {
+      "artist": "Donna Summer",
+      "title": "Donna Summer - Billie Jean.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "1.3MB",
+      "path": "acapella/Donna Summer/Donna Summer - Billie Jean.m4a"
+    },
+    {
+      "artist": "Donna Summer",
+      "title": "Donna Summer - Last Dance.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.4MB",
+      "path": "acapella/Donna Summer/Donna Summer - Last Dance.m4a"
+    },
+    {
+      "artist": "Donna Summer",
+      "title": "Donna Summer - Liberian Girl.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "1.5MB",
+      "path": "acapella/Donna Summer/Donna Summer - Liberian Girl.m4a"
+    },
+    {
+      "artist": "Donna Summer",
+      "title": "Donna Summer - On The Radio.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "1.2MB",
+      "path": "acapella/Donna Summer/Donna Summer - On The Radio.m4a"
+    },
+    {
+      "artist": "Donna Summer",
+      "title": "Donna Summer - Sunset People.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "1.3MB",
+      "path": "acapella/Donna Summer/Donna Summer - Sunset People.m4a"
+    },
+    {
+      "artist": "Donna Summer",
+      "title": "Donna Summer - You Know How To Love Me.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "0.6MB",
+      "path": "acapella/Donna Summer/Donna Summer - You Know How To Love Me.m4a"
     },
     {
       "artist": "Drake",
@@ -747,6 +1089,24 @@
       "format": "mp3",
       "size": "6.3MB",
       "path": "acapella/Drake/Drake - Can’t Take A Joke - BPM 174 - Bb Minor.mp3"
+    },
+    {
+      "artist": "Drake",
+      "title": "Drake - Circadian Rhythm.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.0MB",
+      "path": "acapella/Drake/Drake - Circadian Rhythm.m4a"
+    },
+    {
+      "artist": "Drake",
+      "title": "Drake - Fair Trade (feat. Travis Scott).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "4.5MB",
+      "path": "acapella/Drake/Drake - Fair Trade (feat. Travis Scott).m4a"
     },
     {
       "artist": "Drake",
@@ -795,6 +1155,15 @@
     },
     {
       "artist": "Drake",
+      "title": "Drake - Rich Baby Daddy (feat. Sexyy Red, Sza).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "4.9MB",
+      "path": "acapella/Drake/Drake - Rich Baby Daddy (feat. Sexyy Red, Sza).m4a"
+    },
+    {
+      "artist": "Drake",
       "title": "Drake - What's Next - BPM 130 - C Minor .mp3",
       "bpm": 0,
       "key": "C",
@@ -812,6 +1181,15 @@
       "path": "acapella/Drake/Timbaland - Say Something (Feat. Drake) - BPM 160 - B Major.mp3"
     },
     {
+      "artist": "Duran",
+      "title": "Duran Duran Rio.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "0.3MB",
+      "path": "acapella/Duran/Duran Duran Rio.m4a"
+    },
+    {
       "artist": "Dwele",
       "title": "Dwele - I Think I Love You - BPM 102 - A Minor.mp3",
       "bpm": 0,
@@ -819,6 +1197,24 @@
       "format": "mp3",
       "size": "6.1MB",
       "path": "acapella/Dwele/Dwele - I Think I Love You - BPM 102 - A Minor.mp3"
+    },
+    {
+      "artist": "Eazy E",
+      "title": "Eazy E - Creep N Crawl.m4a",
+      "bpm": 0,
+      "key": "E",
+      "format": "m4a",
+      "size": "0.3MB",
+      "path": "acapella/Eazy E/Eazy E - Creep N Crawl.m4a"
+    },
+    {
+      "artist": "Eddie Murphy",
+      "title": "Eddie Murphy - Party All The Time.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.6MB",
+      "path": "acapella/Eddie Murphy/Eddie Murphy - Party All The Time.m4a"
     },
     {
       "artist": "Eem Triplin",
@@ -992,6 +1388,24 @@
       "path": "acapella/Ella Mai/Ella Mai - She Don't (Feat. Ty Dolla $ign) - BPM 100 - G Minor.mp3"
     },
     {
+      "artist": "Ellie Goulding",
+      "title": "Ellie Goulding - Lights.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "0.5MB",
+      "path": "acapella/Ellie Goulding/Ellie Goulding - Lights.m4a"
+    },
+    {
+      "artist": "Eminem",
+      "title": "Eminem - Godzilla (feat. Juice Wrld).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.3MB",
+      "path": "acapella/Eminem/Eminem - Godzilla (feat. Juice Wrld).m4a"
+    },
+    {
       "artist": "Eminem",
       "title": "Eminem - Shake That - BPM 107 - C# Minor.mp3",
       "bpm": 0,
@@ -1053,6 +1467,33 @@
       "format": "mp3",
       "size": "3.7MB",
       "path": "acapella/Fat Joe/Fat Joe - What's Luv (feat. Ashanti) - BPM 94 - Ab Major.mp3"
+    },
+    {
+      "artist": "Fine Young Cannibals",
+      "title": "Fine Young Cannibals - She Drives Me Crazy.mp3",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "mp3",
+      "size": "0.1MB",
+      "path": "acapella/Fine Young Cannibals/Fine Young Cannibals - She Drives Me Crazy.mp3"
+    },
+    {
+      "artist": "Firefox",
+      "title": "Firefox - Sex Shooter.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "0.3MB",
+      "path": "acapella/Firefox/Firefox - Sex Shooter.m4a"
+    },
+    {
+      "artist": "Florist",
+      "title": "Florist - Jellyfish.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.7MB",
+      "path": "acapella/Florist/Florist - Jellyfish.m4a"
     },
     {
       "artist": "Free Nationals",
@@ -1128,6 +1569,24 @@
     },
     {
       "artist": "Future",
+      "title": "Future - Puffin On Zootiez.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.7MB",
+      "path": "acapella/Future/Future - Puffin On Zootiez.m4a"
+    },
+    {
+      "artist": "Future",
+      "title": "Future - Type Shit (feat. Metro Boomin, Travis Scott, Playboi Carti).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.6MB",
+      "path": "acapella/Future/Future - Type Shit (feat. Metro Boomin, Travis Scott, Playboi Carti).m4a"
+    },
+    {
+      "artist": "Future",
       "title": "Future - Zoom - BPM 151 - A Major.mp3",
       "bpm": 0,
       "key": "A",
@@ -1152,6 +1611,33 @@
       "format": "mp3",
       "size": "8.8MB",
       "path": "acapella/Future/Future- Super Trapper - BPM 150 - C# Major.mp3"
+    },
+    {
+      "artist": "George Benson",
+      "title": "George Benson - Give Me The Night ( And )_865998673 Site (1).mp3",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "mp3",
+      "size": "0.1MB",
+      "path": "acapella/George Benson/George Benson - Give Me The Night ( And )_865998673 Site (1).mp3"
+    },
+    {
+      "artist": "George Benson",
+      "title": "George Benson - What's On Your Mind.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.7MB",
+      "path": "acapella/George Benson/George Benson - What's On Your Mind.m4a"
+    },
+    {
+      "artist": "Giorgio",
+      "title": "Giorgio Moroder & Philip Oakey Together In Electric Dreams.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "1.8MB",
+      "path": "acapella/Giorgio/Giorgio Moroder & Philip Oakey Together In Electric Dreams.m4a"
     },
     {
       "artist": "Giveon",
@@ -1190,6 +1676,24 @@
       "path": "acapella/GoldLink/GoldLink - U Say ft. Tyler, The Creator, Jay Prince_vocals_vocals.mp3"
     },
     {
+      "artist": "Gracie Abrams",
+      "title": "Gracie Abrams - Death Wish Live From The O2 Arena.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.5MB",
+      "path": "acapella/Gracie Abrams/Gracie Abrams - Death Wish Live From The O2 Arena.m4a"
+    },
+    {
+      "artist": "Gunna",
+      "title": "Gunna - One Of Wun.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.2MB",
+      "path": "acapella/Gunna/Gunna - One Of Wun.m4a"
+    },
+    {
       "artist": "Gunna",
       "title": "Gunna - fukumean (Acapella _ Vocals Only).mp3",
       "bpm": 0,
@@ -1206,6 +1710,60 @@
       "format": "mp3",
       "size": "3.7MB",
       "path": "acapella/Gunna/gunna x travis scott - top floor (ACAPELLA).mp3"
+    },
+    {
+      "artist": "Guns N' Roses",
+      "title": "Guns N' Roses - Patience.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.1MB",
+      "path": "acapella/Guns N' Roses/Guns N' Roses - Patience.m4a"
+    },
+    {
+      "artist": "Hanumankind",
+      "title": "Hanumankind - Big Dawgs (feat. Kalmi).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.0MB",
+      "path": "acapella/Hanumankind/Hanumankind - Big Dawgs (feat. Kalmi).m4a"
+    },
+    {
+      "artist": "Herbie Mann",
+      "title": "Herbie Mann - Hijack.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.1MB",
+      "path": "acapella/Herbie Mann/Herbie Mann - Hijack.m4a"
+    },
+    {
+      "artist": "Imogen Heap",
+      "title": "Imogen Heap - Headlock.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.3MB",
+      "path": "acapella/Imogen Heap/Imogen Heap - Headlock.m4a"
+    },
+    {
+      "artist": "Inxs",
+      "title": "Inxs - Mystify.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "1.5MB",
+      "path": "acapella/Inxs/Inxs - Mystify.m4a"
+    },
+    {
+      "artist": "Inxs",
+      "title": "Inxs - Need You Tonight.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "1.7MB",
+      "path": "acapella/Inxs/Inxs - Need You Tonight.m4a"
     },
     {
       "artist": "Joji",
@@ -1362,6 +1920,366 @@
     },
     {
       "artist": "Kanye West",
+      "title": "Kanye West - 24 (BPM 105).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.0MB",
+      "path": "acapella/Kanye West/Kanye West - 24 (BPM 105).m4a"
+    },
+    {
+      "artist": "Kanye West",
+      "title": "Kanye West - Believe What I Say (BPM 101).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.7MB",
+      "path": "acapella/Kanye West/Kanye West - Believe What I Say (BPM 101).m4a"
+    },
+    {
+      "artist": "Kanye West",
+      "title": "Kanye West - Come To Life (BPM 127).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "4.8MB",
+      "path": "acapella/Kanye West/Kanye West - Come To Life (BPM 127).m4a"
+    },
+    {
+      "artist": "Kanye West",
+      "title": "Kanye West - Facts (Charlie Heat Version) (BPM 142).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.1MB",
+      "path": "acapella/Kanye West/Kanye West - Facts (Charlie Heat Version) (BPM 142).m4a"
+    },
+    {
+      "artist": "Kanye West",
+      "title": "Kanye West - Fade (ft. Post Malone & Ty Dolla $ign) (BPM 106).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.1MB",
+      "path": "acapella/Kanye West/Kanye West - Fade (ft. Post Malone & Ty Dolla $ign) (BPM 106).m4a"
+    },
+    {
+      "artist": "Kanye West",
+      "title": "Kanye West - Famous (ft. Rihanna) (BPM 174).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.0MB",
+      "path": "acapella/Kanye West/Kanye West - Famous (ft. Rihanna) (BPM 174).m4a"
+    },
+    {
+      "artist": "Kanye West",
+      "title": "Kanye West - Father Stretch My Hands, Pt 1 (feat. Kid Cudi) (BPM 113).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.1MB",
+      "path": "acapella/Kanye West/Kanye West - Father Stretch My Hands, Pt 1 (feat. Kid Cudi) (BPM 113).m4a"
+    },
+    {
+      "artist": "Kanye West",
+      "title": "Kanye West - Feedback (BPM 100).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.3MB",
+      "path": "acapella/Kanye West/Kanye West - Feedback (BPM 100).m4a"
+    },
+    {
+      "artist": "Kanye West",
+      "title": "Kanye West - Fml (ft. The Weeknd) (BPM 125).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.6MB",
+      "path": "acapella/Kanye West/Kanye West - Fml (ft. The Weeknd) (BPM 125).m4a"
+    },
+    {
+      "artist": "Kanye West",
+      "title": "Kanye West - Freestyle 4 (ft. Desiigner) (BPM 126).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "1.9MB",
+      "path": "acapella/Kanye West/Kanye West - Freestyle 4 (ft. Desiigner) (BPM 126).m4a"
+    },
+    {
+      "artist": "Kanye West",
+      "title": "Kanye West - God Breathed (BPM 130).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "5.1MB",
+      "path": "acapella/Kanye West/Kanye West - God Breathed (BPM 130).m4a"
+    },
+    {
+      "artist": "Kanye West",
+      "title": "Kanye West - Heaven And Hell (BPM 83).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.2MB",
+      "path": "acapella/Kanye West/Kanye West - Heaven And Hell (BPM 83).m4a"
+    },
+    {
+      "artist": "Kanye West",
+      "title": "Kanye West - Highlights (ft. The-dream & Young Thug) (BPM 102).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.1MB",
+      "path": "acapella/Kanye West/Kanye West - Highlights (ft. The-dream & Young Thug) (BPM 102).m4a"
+    },
+    {
+      "artist": "Kanye West",
+      "title": "Kanye West - Hurricane Reupload-read Description (BPM 81).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "0.2MB",
+      "path": "acapella/Kanye West/Kanye West - Hurricane Reupload-read Description (BPM 81).m4a"
+    },
+    {
+      "artist": "Kanye West",
+      "title": "Kanye West - Jail (BPM 110).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "4.6MB",
+      "path": "acapella/Kanye West/Kanye West - Jail (BPM 110).m4a"
+    },
+    {
+      "artist": "Kanye West",
+      "title": "Kanye West - Jail Pt 2 (BPM 110).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "4.6MB",
+      "path": "acapella/Kanye West/Kanye West - Jail Pt 2 (BPM 110).m4a"
+    },
+    {
+      "artist": "Kanye West",
+      "title": "Kanye West - Jesus Lord (BPM 82).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "8.3MB",
+      "path": "acapella/Kanye West/Kanye West - Jesus Lord (BPM 82).m4a"
+    },
+    {
+      "artist": "Kanye West",
+      "title": "Kanye West - Jesus Lord Pt 2 (BPM 82).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "4.2MB",
+      "path": "acapella/Kanye West/Kanye West - Jesus Lord Pt 2 (BPM 82).m4a"
+    },
+    {
+      "artist": "Kanye West",
+      "title": "Kanye West - Jonah (BPM 107).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.0MB",
+      "path": "acapella/Kanye West/Kanye West - Jonah (BPM 107).m4a"
+    },
+    {
+      "artist": "Kanye West",
+      "title": "Kanye West - Junya (BPM 74).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.3MB",
+      "path": "acapella/Kanye West/Kanye West - Junya (BPM 74).m4a"
+    },
+    {
+      "artist": "Kanye West",
+      "title": "Kanye West - Junya Pt 2 (BPM 74).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.8MB",
+      "path": "acapella/Kanye West/Kanye West - Junya Pt 2 (BPM 74).m4a"
+    },
+    {
+      "artist": "Kanye West",
+      "title": "Kanye West - Keep My Spirit Alive (BPM 82).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.4MB",
+      "path": "acapella/Kanye West/Kanye West - Keep My Spirit Alive (BPM 82).m4a"
+    },
+    {
+      "artist": "Kanye West",
+      "title": "Kanye West - Lord I Need You (BPM 83).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.5MB",
+      "path": "acapella/Kanye West/Kanye West - Lord I Need You (BPM 83).m4a"
+    },
+    {
+      "artist": "Kanye West",
+      "title": "Kanye West - Lowlights (BPM 102).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.0MB",
+      "path": "acapella/Kanye West/Kanye West - Lowlights (BPM 102).m4a"
+    },
+    {
+      "artist": "Kanye West",
+      "title": "Kanye West - Moon (BPM 79).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.4MB",
+      "path": "acapella/Kanye West/Kanye West - Moon (BPM 79).m4a"
+    },
+    {
+      "artist": "Kanye West",
+      "title": "Kanye West - New Again (BPM 91).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.8MB",
+      "path": "acapella/Kanye West/Kanye West - New Again (BPM 91).m4a"
+    },
+    {
+      "artist": "Kanye West",
+      "title": "Kanye West - No Child Left Behind (BPM 150).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.7MB",
+      "path": "acapella/Kanye West/Kanye West - No Child Left Behind (BPM 150).m4a"
+    },
+    {
+      "artist": "Kanye West",
+      "title": "Kanye West - No More Parties In La (ft. Kendrick Lamar) (BPM 93).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "5.8MB",
+      "path": "acapella/Kanye West/Kanye West - No More Parties In La (ft. Kendrick Lamar) (BPM 93).m4a"
+    },
+    {
+      "artist": "Kanye West",
+      "title": "Kanye West - Off The Grid.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "5.2MB",
+      "path": "acapella/Kanye West/Kanye West - Off The Grid.m4a"
+    },
+    {
+      "artist": "Kanye West",
+      "title": "Kanye West - Ok Ok (BPM 83).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.1MB",
+      "path": "acapella/Kanye West/Kanye West - Ok Ok (BPM 83).m4a"
+    },
+    {
+      "artist": "Kanye West",
+      "title": "Kanye West - Ok Ok Pt 2 (BPM 83).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.2MB",
+      "path": "acapella/Kanye West/Kanye West - Ok Ok Pt 2 (BPM 83).m4a"
+    },
+    {
+      "artist": "Kanye West",
+      "title": "Kanye West - Praise God (BPM 118).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.5MB",
+      "path": "acapella/Kanye West/Kanye West - Praise God (BPM 118).m4a"
+    },
+    {
+      "artist": "Kanye West",
+      "title": "Kanye West - Pt. 2 (ft. Desiigner) (BPM 145).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.0MB",
+      "path": "acapella/Kanye West/Kanye West - Pt. 2 (ft. Desiigner) (BPM 145).m4a"
+    },
+    {
+      "artist": "Kanye West",
+      "title": "Kanye West - Pure Souls (BPM 96).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "5.5MB",
+      "path": "acapella/Kanye West/Kanye West - Pure Souls (BPM 96).m4a"
+    },
+    {
+      "artist": "Kanye West",
+      "title": "Kanye West - Real Friends (ft. Ty Dolla $ign) (BPM 81).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.9MB",
+      "path": "acapella/Kanye West/Kanye West - Real Friends (ft. Ty Dolla $ign) (BPM 81).m4a"
+    },
+    {
+      "artist": "Kanye West",
+      "title": "Kanye West - Remote Control (BPM 110).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.1MB",
+      "path": "acapella/Kanye West/Kanye West - Remote Control (BPM 110).m4a"
+    },
+    {
+      "artist": "Kanye West",
+      "title": "Kanye West - Saint Pablo (ft. Sampha) (BPM 167).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "5.8MB",
+      "path": "acapella/Kanye West/Kanye West - Saint Pablo (ft. Sampha) (BPM 167).m4a"
+    },
+    {
+      "artist": "Kanye West",
+      "title": "Kanye West - Ultralight Beam (ft. Chance The Rapper) (BPM 105).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "5.0MB",
+      "path": "acapella/Kanye West/Kanye West - Ultralight Beam (ft. Chance The Rapper) (BPM 105).m4a"
+    },
+    {
+      "artist": "Kanye West",
+      "title": "Kanye West - Waves (ft. Chris Brown) (BPM 96).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.8MB",
+      "path": "acapella/Kanye West/Kanye West - Waves (ft. Chris Brown) (BPM 96).m4a"
+    },
+    {
+      "artist": "Kanye West",
+      "title": "Kanye West - Wolves (ft. Sia & Vic Mensa) (BPM 78).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "4.6MB",
+      "path": "acapella/Kanye West/Kanye West - Wolves (ft. Sia & Vic Mensa) (BPM 78).m4a"
+    },
+    {
+      "artist": "Kanye West",
       "title": "kanye west - all day (123).mp3",
       "bpm": 0,
       "key": "Unknown",
@@ -1433,6 +2351,42 @@
       "path": "acapella/Kendrick Lamar/kendrick lamar, kodak black - silent hill (acapella).mp3"
     },
     {
+      "artist": "Laufey",
+      "title": "Laufey Silver Lining.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.1MB",
+      "path": "acapella/Laufey/Laufey Silver Lining.m4a"
+    },
+    {
+      "artist": "Lelo",
+      "title": "Lelo 2hollis.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "1.6MB",
+      "path": "acapella/Lelo/Lelo 2hollis.m4a"
+    },
+    {
+      "artist": "Lil Tecca",
+      "title": "Lil Tecca Ransom.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.0MB",
+      "path": "acapella/Lil Tecca/Lil Tecca Ransom.m4a"
+    },
+    {
+      "artist": "Lil Yachty",
+      "title": "Lil Yachty Can’t Be Crete Boy (feat. Veeze).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.5MB",
+      "path": "acapella/Lil Yachty/Lil Yachty Can’t Be Crete Boy (feat. Veeze).m4a"
+    },
+    {
       "artist": "Lil Yachty",
       "title": "lil yachty x future x playboi carti - flex up (ACAPELLA).mp3",
       "bpm": 0,
@@ -1458,6 +2412,105 @@
       "format": "mp3",
       "size": "2.0MB",
       "path": "acapella/Lil Yachty/lil yatchy, ssgkobe - fuk em (acapella).mp3"
+    },
+    {
+      "artist": "Lucki",
+      "title": "Lucki Free Mr. Banks.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "1.9MB",
+      "path": "acapella/Lucki/Lucki Free Mr. Banks.m4a"
+    },
+    {
+      "artist": "Lumineers",
+      "title": "The Lumineers A Song For You Live At The Hollywood Bowl, Los Angeles, Ca April 29, 2023.m4a",
+      "bpm": 0,
+      "key": "A",
+      "format": "m4a",
+      "size": "4.7MB",
+      "path": "acapella/Lumineers/The Lumineers A Song For You Live At The Hollywood Bowl, Los Angeles, Ca April 29, 2023.m4a"
+    },
+    {
+      "artist": "Luther Vandross",
+      "title": "Luther Vandross Never To Much.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "1.1MB",
+      "path": "acapella/Luther Vandross/Luther Vandross Never To Much.m4a"
+    },
+    {
+      "artist": "Madonna",
+      "title": "Madonna La Isla Bonita.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.1MB",
+      "path": "acapella/Madonna/Madonna La Isla Bonita.m4a"
+    },
+    {
+      "artist": "Melanie Fiona",
+      "title": "Melanie Fiona Make Me Feel (feat. Larussell).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.0MB",
+      "path": "acapella/Melanie Fiona/Melanie Fiona Make Me Feel (feat. Larussell).m4a"
+    },
+    {
+      "artist": "Nas",
+      "title": "Nas Ft Lauryn Hill If I Ruled The World (13 ).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "1.8MB",
+      "path": "acapella/Nas/Nas Ft Lauryn Hill If I Ruled The World (13 ).m4a"
+    },
+    {
+      "artist": "Neon Tapehead",
+      "title": "Neon Tapehead Feeling Of The Night.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "0.3MB",
+      "path": "acapella/Neon Tapehead/Neon Tapehead Feeling Of The Night.m4a"
+    },
+    {
+      "artist": "Nocap",
+      "title": "Nocap Fine Shit (feat. Rob49).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.8MB",
+      "path": "acapella/Nocap/Nocap Fine Shit (feat. Rob49).m4a"
+    },
+    {
+      "artist": "Obongjayar",
+      "title": "Obongjayar Sweet Danger.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.5MB",
+      "path": "acapella/Obongjayar/Obongjayar Sweet Danger.m4a"
+    },
+    {
+      "artist": "Odumodublvck",
+      "title": "Odumodublvck Legolas.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.6MB",
+      "path": "acapella/Odumodublvck/Odumodublvck Legolas.m4a"
+    },
+    {
+      "artist": "Old Dominion",
+      "title": "Old Dominion Me Most Nights.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.5MB",
+      "path": "acapella/Old Dominion/Old Dominion Me Most Nights.m4a"
     },
     {
       "artist": "Oliver Tree",
@@ -1548,6 +2601,78 @@
       "format": "mp3",
       "size": "4.4MB",
       "path": "acapella/Oliver Tree/oliver tree - waste my time (acapella).mp3"
+    },
+    {
+      "artist": "Ollie",
+      "title": "Ollie & Jerry Breakin'...there's No Stopping Us.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "1.8MB",
+      "path": "acapella/Ollie/Ollie & Jerry Breakin'...there's No Stopping Us.m4a"
+    },
+    {
+      "artist": "Oxlade",
+      "title": "Oxlade Doingz.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.5MB",
+      "path": "acapella/Oxlade/Oxlade Doingz.m4a"
+    },
+    {
+      "artist": "Panchiko",
+      "title": "Panchiko Chapel Of Salt.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.9MB",
+      "path": "acapella/Panchiko/Panchiko Chapel Of Salt.m4a"
+    },
+    {
+      "artist": "Parmalee",
+      "title": "Parmalee God Knew Better.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.9MB",
+      "path": "acapella/Parmalee/Parmalee God Knew Better.m4a"
+    },
+    {
+      "artist": "Partynextdoor",
+      "title": "Partynextdoor Dreamin.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.3MB",
+      "path": "acapella/Partynextdoor/Partynextdoor Dreamin.m4a"
+    },
+    {
+      "artist": "Paula Adbul",
+      "title": "Paula Abdul My Love Is For Real.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "1.2MB",
+      "path": "acapella/Paula Adbul/Paula Abdul My Love Is For Real.m4a"
+    },
+    {
+      "artist": "Phil Collins",
+      "title": "Phil Collins Against All Odds.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "1.3MB",
+      "path": "acapella/Phil Collins/Phil Collins Against All Odds.m4a"
+    },
+    {
+      "artist": "Pinkpantheress",
+      "title": "Pinkpantheress Tonight.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.7MB",
+      "path": "acapella/Pinkpantheress/Pinkpantheress Tonight.m4a"
     },
     {
       "artist": "Playboi Carti",
@@ -1649,355 +2774,382 @@
       "path": "acapella/Quavo/Quavo - Shooters Inside My Crib.wav"
     },
     {
-      "artist": "R.A.P. Ferreira - OUTSTANDING UNDERSTANDING",
-      "title": "01.R.A.P. Ferreira - the lesson they learned me ft the eye of the ruby.mp3",
+      "artist": "Queen",
+      "title": "Queen - I Want It All.m4a",
       "bpm": 0,
-      "key": "A",
-      "format": "mp3",
-      "size": "1.8MB",
-      "path": "acapella/R.A.P. Ferreira - OUTSTANDING UNDERSTANDING/01.R.A.P. Ferreira - the lesson they learned me ft the eye of the ruby.mp3"
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "0.2MB",
+      "path": "acapella/Queen/Queen - I Want It All.m4a"
     },
     {
-      "artist": "R.A.P. Ferreira - OUTSTANDING UNDERSTANDING",
-      "title": "02.R.A.P. Ferreira - M.H.D..mp3",
+      "artist": "Queen",
+      "title": "Queen - The Show Must Go On.m4a",
       "bpm": 0,
-      "key": "A",
-      "format": "mp3",
-      "size": "1.8MB",
-      "path": "acapella/R.A.P. Ferreira - OUTSTANDING UNDERSTANDING/02.R.A.P. Ferreira - M.H.D..mp3"
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "26.7MB",
+      "path": "acapella/Queen/Queen - The Show Must Go On.m4a"
     },
     {
-      "artist": "R.A.P. Ferreira - OUTSTANDING UNDERSTANDING",
-      "title": "03.R.A.P. Ferreira - up-to-date mythology.mp3",
+      "artist": "Queen",
+      "title": "Queen - Tie Your Mother Down.m4a",
       "bpm": 0,
-      "key": "A",
-      "format": "mp3",
-      "size": "2.4MB",
-      "path": "acapella/R.A.P. Ferreira - OUTSTANDING UNDERSTANDING/03.R.A.P. Ferreira - up-to-date mythology.mp3"
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "1.0MB",
+      "path": "acapella/Queen/Queen - Tie Your Mother Down.m4a"
     },
     {
-      "artist": "R.A.P. Ferreira - OUTSTANDING UNDERSTANDING",
-      "title": "04.R.A.P. Ferreira - melons.mp3",
-      "bpm": 0,
-      "key": "A",
-      "format": "mp3",
-      "size": "1.1MB",
-      "path": "acapella/R.A.P. Ferreira - OUTSTANDING UNDERSTANDING/04.R.A.P. Ferreira - melons.mp3"
-    },
-    {
-      "artist": "R.A.P. Ferreira - OUTSTANDING UNDERSTANDING",
-      "title": "05.R.A.P. Ferreira - honor when honor is due.mp3",
-      "bpm": 0,
-      "key": "A",
-      "format": "mp3",
-      "size": "1.3MB",
-      "path": "acapella/R.A.P. Ferreira - OUTSTANDING UNDERSTANDING/05.R.A.P. Ferreira - honor when honor is due.mp3"
-    },
-    {
-      "artist": "R.A.P. Ferreira - OUTSTANDING UNDERSTANDING",
-      "title": "06.R.A.P. Ferreira - the poem presents a glimpse.mp3",
-      "bpm": 0,
-      "key": "A",
-      "format": "mp3",
-      "size": "2.4MB",
-      "path": "acapella/R.A.P. Ferreira - OUTSTANDING UNDERSTANDING/06.R.A.P. Ferreira - the poem presents a glimpse.mp3"
-    },
-    {
-      "artist": "R.A.P. Ferreira - OUTSTANDING UNDERSTANDING",
-      "title": "07.R.A.P. Ferreira - six strings and a harmonica.mp3",
-      "bpm": 0,
-      "key": "A",
-      "format": "mp3",
-      "size": "1.9MB",
-      "path": "acapella/R.A.P. Ferreira - OUTSTANDING UNDERSTANDING/07.R.A.P. Ferreira - six strings and a harmonica.mp3"
-    },
-    {
-      "artist": "R.A.P. Ferreira - OUTSTANDING UNDERSTANDING",
-      "title": "08.R.A.P. Ferreira - reciting the alpha's bet.mp3",
-      "bpm": 0,
-      "key": "A",
-      "format": "mp3",
-      "size": "1.9MB",
-      "path": "acapella/R.A.P. Ferreira - OUTSTANDING UNDERSTANDING/08.R.A.P. Ferreira - reciting the alpha's bet.mp3"
-    },
-    {
-      "artist": "R.A.P. Ferreira - OUTSTANDING UNDERSTANDING",
-      "title": "09.R.A.P. Ferreira - culture jammer.mp3",
-      "bpm": 0,
-      "key": "A",
-      "format": "mp3",
-      "size": "1.9MB",
-      "path": "acapella/R.A.P. Ferreira - OUTSTANDING UNDERSTANDING/09.R.A.P. Ferreira - culture jammer.mp3"
-    },
-    {
-      "artist": "R.A.P. Ferreira - OUTSTANDING UNDERSTANDING",
-      "title": "10.R.A.P. Ferreira - barbados gooseberry, kiwi.mp3",
-      "bpm": 0,
-      "key": "A",
-      "format": "mp3",
-      "size": "1.5MB",
-      "path": "acapella/R.A.P. Ferreira - OUTSTANDING UNDERSTANDING/10.R.A.P. Ferreira - barbados gooseberry, kiwi.mp3"
-    },
-    {
-      "artist": "R.A.P. Ferreira - OUTSTANDING UNDERSTANDING",
-      "title": "11.R.A.P. Ferreira - rather difficult.mp3",
-      "bpm": 0,
-      "key": "A",
-      "format": "mp3",
-      "size": "2.9MB",
-      "path": "acapella/R.A.P. Ferreira - OUTSTANDING UNDERSTANDING/11.R.A.P. Ferreira - rather difficult.mp3"
-    },
-    {
-      "artist": "R.A.P. Ferreira - OUTSTANDING UNDERSTANDING",
-      "title": "12.R.A.P. Ferreira - oblivious butterfly.mp3",
-      "bpm": 0,
-      "key": "A",
-      "format": "mp3",
-      "size": "1.6MB",
-      "path": "acapella/R.A.P. Ferreira - OUTSTANDING UNDERSTANDING/12.R.A.P. Ferreira - oblivious butterfly.mp3"
-    },
-    {
-      "artist": "R.A.P. Ferreira - OUTSTANDING UNDERSTANDING",
-      "title": "13.R.A.P. Ferreira - when my eldest daughter asks how old i am.mp3",
-      "bpm": 0,
-      "key": "A",
-      "format": "mp3",
-      "size": "1.4MB",
-      "path": "acapella/R.A.P. Ferreira - OUTSTANDING UNDERSTANDING/13.R.A.P. Ferreira - when my eldest daughter asks how old i am.mp3"
-    },
-    {
-      "artist": "R.A.P. Ferreira - OUTSTANDING UNDERSTANDING",
-      "title": "14.R.A.P. Ferreira - i'll turn your money green.mp3",
-      "bpm": 0,
-      "key": "A",
-      "format": "mp3",
-      "size": "2.4MB",
-      "path": "acapella/R.A.P. Ferreira - OUTSTANDING UNDERSTANDING/14.R.A.P. Ferreira - i'll turn your money green.mp3"
-    },
-    {
-      "artist": "R.A.P. Ferreira - OUTSTANDING UNDERSTANDING",
-      "title": "15.R.A.P. Ferreira - mana from momma.mp3",
-      "bpm": 0,
-      "key": "A",
-      "format": "mp3",
-      "size": "0.5MB",
-      "path": "acapella/R.A.P. Ferreira - OUTSTANDING UNDERSTANDING/15.R.A.P. Ferreira - mana from momma.mp3"
-    },
-    {
-      "artist": "R.A.P. Ferreira - bob's son; R.A.P. Ferreira in the garden level cafe of the scallops hotel",
+      "artist": "R.A.P. Ferreira",
       "title": "01.R.A.P. Ferreira - battle report ft Pink Navel.mp3",
       "bpm": 0,
       "key": "A",
       "format": "mp3",
       "size": "1.6MB",
-      "path": "acapella/R.A.P. Ferreira - bob's son; R.A.P. Ferreira in the garden level cafe of the scallops hotel/01.R.A.P. Ferreira - battle report ft Pink Navel.mp3"
+      "path": "acapella/R.A.P. Ferreira/01.R.A.P. Ferreira - battle report ft Pink Navel.mp3"
     },
     {
-      "artist": "R.A.P. Ferreira - bob's son; R.A.P. Ferreira in the garden level cafe of the scallops hotel",
-      "title": "02.R.A.P. Ferreira - the cough bomber's return.mp3",
-      "bpm": 0,
-      "key": "A",
-      "format": "mp3",
-      "size": "3.0MB",
-      "path": "acapella/R.A.P. Ferreira - bob's son; R.A.P. Ferreira in the garden level cafe of the scallops hotel/02.R.A.P. Ferreira - the cough bomber's return.mp3"
-    },
-    {
-      "artist": "R.A.P. Ferreira - bob's son; R.A.P. Ferreira in the garden level cafe of the scallops hotel",
-      "title": "03.R.A.P. Ferreira - yamships, flaxscript.mp3",
-      "bpm": 0,
-      "key": "A",
-      "format": "mp3",
-      "size": "2.4MB",
-      "path": "acapella/R.A.P. Ferreira - bob's son; R.A.P. Ferreira in the garden level cafe of the scallops hotel/03.R.A.P. Ferreira - yamships, flaxscript.mp3"
-    },
-    {
-      "artist": "R.A.P. Ferreira - bob's son; R.A.P. Ferreira in the garden level cafe of the scallops hotel",
-      "title": "04.R.A.P. Ferreira - diogenes on the auction block.mp3",
-      "bpm": 0,
-      "key": "A",
-      "format": "mp3",
-      "size": "1.4MB",
-      "path": "acapella/R.A.P. Ferreira - bob's son; R.A.P. Ferreira in the garden level cafe of the scallops hotel/04.R.A.P. Ferreira - diogenes on the auction block.mp3"
-    },
-    {
-      "artist": "R.A.P. Ferreira - bob's son; R.A.P. Ferreira in the garden level cafe of the scallops hotel",
-      "title": "05.R.A.P. Ferreira - redguard snipers ft SB the Moor.mp3",
-      "bpm": 0,
-      "key": "A",
-      "format": "mp3",
-      "size": "4.7MB",
-      "path": "acapella/R.A.P. Ferreira - bob's son; R.A.P. Ferreira in the garden level cafe of the scallops hotel/05.R.A.P. Ferreira - redguard snipers ft SB the Moor.mp3"
-    },
-    {
-      "artist": "R.A.P. Ferreira - bob's son; R.A.P. Ferreira in the garden level cafe of the scallops hotel",
-      "title": "06.R.A.P. Ferreira - sips of ripple wine (no stemware).mp3",
-      "bpm": 0,
-      "key": "A",
-      "format": "mp3",
-      "size": "3.0MB",
-      "path": "acapella/R.A.P. Ferreira - bob's son; R.A.P. Ferreira in the garden level cafe of the scallops hotel/06.R.A.P. Ferreira - sips of ripple wine (no stemware).mp3"
-    },
-    {
-      "artist": "R.A.P. Ferreira - bob's son; R.A.P. Ferreira in the garden level cafe of the scallops hotel",
-      "title": "07.R.A.P. Ferreira - skrenth.mp3",
-      "bpm": 0,
-      "key": "A",
-      "format": "mp3",
-      "size": "2.2MB",
-      "path": "acapella/R.A.P. Ferreira - bob's son; R.A.P. Ferreira in the garden level cafe of the scallops hotel/07.R.A.P. Ferreira - skrenth.mp3"
-    },
-    {
-      "artist": "R.A.P. Ferreira - bob's son; R.A.P. Ferreira in the garden level cafe of the scallops hotel",
-      "title": "08.R.A.P. Ferreira - bobby digital's little wings.mp3",
-      "bpm": 0,
-      "key": "A",
-      "format": "mp3",
-      "size": "2.6MB",
-      "path": "acapella/R.A.P. Ferreira - bob's son; R.A.P. Ferreira in the garden level cafe of the scallops hotel/08.R.A.P. Ferreira - bobby digital's little wings.mp3"
-    },
-    {
-      "artist": "R.A.P. Ferreira - bob's son; R.A.P. Ferreira in the garden level cafe of the scallops hotel",
-      "title": "09.R.A.P. Ferreira - listening.mp3",
-      "bpm": 0,
-      "key": "A",
-      "format": "mp3",
-      "size": "2.7MB",
-      "path": "acapella/R.A.P. Ferreira - bob's son; R.A.P. Ferreira in the garden level cafe of the scallops hotel/09.R.A.P. Ferreira - listening.mp3"
-    },
-    {
-      "artist": "R.A.P. Ferreira - bob's son; R.A.P. Ferreira in the garden level cafe of the scallops hotel",
-      "title": "10.R.A.P. Ferreira - high rise in newark.mp3",
-      "bpm": 0,
-      "key": "A",
-      "format": "mp3",
-      "size": "2.0MB",
-      "path": "acapella/R.A.P. Ferreira - bob's son; R.A.P. Ferreira in the garden level cafe of the scallops hotel/10.R.A.P. Ferreira - high rise in newark.mp3"
-    },
-    {
-      "artist": "R.A.P. Ferreira - bob's son; R.A.P. Ferreira in the garden level cafe of the scallops hotel",
-      "title": "11.R.A.P. Ferreira - rejoice ft Eldon Somers.mp3",
-      "bpm": 0,
-      "key": "A",
-      "format": "mp3",
-      "size": "4.1MB",
-      "path": "acapella/R.A.P. Ferreira - bob's son; R.A.P. Ferreira in the garden level cafe of the scallops hotel/11.R.A.P. Ferreira - rejoice ft Eldon Somers.mp3"
-    },
-    {
-      "artist": "R.A.P. Ferreira - bob's son; R.A.P. Ferreira in the garden level cafe of the scallops hotel",
-      "title": "12.R.A.P. Ferreira - abomunist manifesto.mp3",
-      "bpm": 0,
-      "key": "A",
-      "format": "mp3",
-      "size": "2.5MB",
-      "path": "acapella/R.A.P. Ferreira - bob's son; R.A.P. Ferreira in the garden level cafe of the scallops hotel/12.R.A.P. Ferreira - abomunist manifesto.mp3"
-    },
-    {
-      "artist": "R.A.P. Ferreira - the Light Emitting Diamond Cutter Scriptures",
+      "artist": "R.A.P. Ferreira",
       "title": "01.R.A.P. Ferreira - contrapuntal (prod. argov).mp3",
       "bpm": 0,
       "key": "A",
       "format": "mp3",
       "size": "2.4MB",
-      "path": "acapella/R.A.P. Ferreira - the Light Emitting Diamond Cutter Scriptures/01.R.A.P. Ferreira - contrapuntal (prod. argov).mp3"
+      "path": "acapella/R.A.P. Ferreira/01.R.A.P. Ferreira - contrapuntal (prod. argov).mp3"
     },
     {
-      "artist": "R.A.P. Ferreira - the Light Emitting Diamond Cutter Scriptures",
+      "artist": "R.A.P. Ferreira",
+      "title": "01.R.A.P. Ferreira - the lesson they learned me ft the eye of the ruby.mp3",
+      "bpm": 0,
+      "key": "A",
+      "format": "mp3",
+      "size": "1.8MB",
+      "path": "acapella/R.A.P. Ferreira/01.R.A.P. Ferreira - the lesson they learned me ft the eye of the ruby.mp3"
+    },
+    {
+      "artist": "R.A.P. Ferreira",
+      "title": "02.R.A.P. Ferreira - M.H.D..mp3",
+      "bpm": 0,
+      "key": "A",
+      "format": "mp3",
+      "size": "1.8MB",
+      "path": "acapella/R.A.P. Ferreira/02.R.A.P. Ferreira - M.H.D..mp3"
+    },
+    {
+      "artist": "R.A.P. Ferreira",
       "title": "02.R.A.P. Ferreira - brother mouzone library card (prod. brainweight).mp3",
       "bpm": 0,
       "key": "A",
       "format": "mp3",
       "size": "2.1MB",
-      "path": "acapella/R.A.P. Ferreira - the Light Emitting Diamond Cutter Scriptures/02.R.A.P. Ferreira - brother mouzone library card (prod. brainweight).mp3"
+      "path": "acapella/R.A.P. Ferreira/02.R.A.P. Ferreira - brother mouzone library card (prod. brainweight).mp3"
     },
     {
-      "artist": "R.A.P. Ferreira - the Light Emitting Diamond Cutter Scriptures",
+      "artist": "R.A.P. Ferreira",
+      "title": "02.R.A.P. Ferreira - the cough bomber's return.mp3",
+      "bpm": 0,
+      "key": "A",
+      "format": "mp3",
+      "size": "3.0MB",
+      "path": "acapella/R.A.P. Ferreira/02.R.A.P. Ferreira - the cough bomber's return.mp3"
+    },
+    {
+      "artist": "R.A.P. Ferreira",
       "title": "03.R.A.P. Ferreira - hyperion (prod. brainweight).mp3",
       "bpm": 0,
       "key": "A",
       "format": "mp3",
       "size": "2.0MB",
-      "path": "acapella/R.A.P. Ferreira - the Light Emitting Diamond Cutter Scriptures/03.R.A.P. Ferreira - hyperion (prod. brainweight).mp3"
+      "path": "acapella/R.A.P. Ferreira/03.R.A.P. Ferreira - hyperion (prod. brainweight).mp3"
     },
     {
-      "artist": "R.A.P. Ferreira - the Light Emitting Diamond Cutter Scriptures",
+      "artist": "R.A.P. Ferreira",
+      "title": "03.R.A.P. Ferreira - up-to-date mythology.mp3",
+      "bpm": 0,
+      "key": "A",
+      "format": "mp3",
+      "size": "2.4MB",
+      "path": "acapella/R.A.P. Ferreira/03.R.A.P. Ferreira - up-to-date mythology.mp3"
+    },
+    {
+      "artist": "R.A.P. Ferreira",
+      "title": "03.R.A.P. Ferreira - yamships, flaxscript.mp3",
+      "bpm": 0,
+      "key": "A",
+      "format": "mp3",
+      "size": "2.4MB",
+      "path": "acapella/R.A.P. Ferreira/03.R.A.P. Ferreira - yamships, flaxscript.mp3"
+    },
+    {
+      "artist": "R.A.P. Ferreira",
+      "title": "04.R.A.P. Ferreira - diogenes on the auction block.mp3",
+      "bpm": 0,
+      "key": "A",
+      "format": "mp3",
+      "size": "1.4MB",
+      "path": "acapella/R.A.P. Ferreira/04.R.A.P. Ferreira - diogenes on the auction block.mp3"
+    },
+    {
+      "artist": "R.A.P. Ferreira",
+      "title": "04.R.A.P. Ferreira - melons.mp3",
+      "bpm": 0,
+      "key": "A",
+      "format": "mp3",
+      "size": "1.1MB",
+      "path": "acapella/R.A.P. Ferreira/04.R.A.P. Ferreira - melons.mp3"
+    },
+    {
+      "artist": "R.A.P. Ferreira",
       "title": "04.R.A.P. Ferreira - wedding cake eighths (prod. gibbsfreelance).mp3",
       "bpm": 0,
       "key": "A",
       "format": "mp3",
       "size": "1.6MB",
-      "path": "acapella/R.A.P. Ferreira - the Light Emitting Diamond Cutter Scriptures/04.R.A.P. Ferreira - wedding cake eighths (prod. gibbsfreelance).mp3"
+      "path": "acapella/R.A.P. Ferreira/04.R.A.P. Ferreira - wedding cake eighths (prod. gibbsfreelance).mp3"
     },
     {
-      "artist": "R.A.P. Ferreira - the Light Emitting Diamond Cutter Scriptures",
+      "artist": "R.A.P. Ferreira",
+      "title": "05.R.A.P. Ferreira - honor when honor is due.mp3",
+      "bpm": 0,
+      "key": "A",
+      "format": "mp3",
+      "size": "1.3MB",
+      "path": "acapella/R.A.P. Ferreira/05.R.A.P. Ferreira - honor when honor is due.mp3"
+    },
+    {
+      "artist": "R.A.P. Ferreira",
       "title": "05.R.A.P. Ferreira - humboldt park jibaritos (prod. argov).mp3",
       "bpm": 0,
       "key": "A",
       "format": "mp3",
       "size": "2.0MB",
-      "path": "acapella/R.A.P. Ferreira - the Light Emitting Diamond Cutter Scriptures/05.R.A.P. Ferreira - humboldt park jibaritos (prod. argov).mp3"
+      "path": "acapella/R.A.P. Ferreira/05.R.A.P. Ferreira - humboldt park jibaritos (prod. argov).mp3"
     },
     {
-      "artist": "R.A.P. Ferreira - the Light Emitting Diamond Cutter Scriptures",
+      "artist": "R.A.P. Ferreira",
+      "title": "05.R.A.P. Ferreira - redguard snipers ft SB the Moor.mp3",
+      "bpm": 0,
+      "key": "A",
+      "format": "mp3",
+      "size": "4.7MB",
+      "path": "acapella/R.A.P. Ferreira/05.R.A.P. Ferreira - redguard snipers ft SB the Moor.mp3"
+    },
+    {
+      "artist": "R.A.P. Ferreira",
       "title": "06.R.A.P. Ferreira - gemilut hasadim (prod. brendon caroselli).mp3",
       "bpm": 0,
       "key": "A",
       "format": "mp3",
       "size": "3.4MB",
-      "path": "acapella/R.A.P. Ferreira - the Light Emitting Diamond Cutter Scriptures/06.R.A.P. Ferreira - gemilut hasadim (prod. brendon caroselli).mp3"
+      "path": "acapella/R.A.P. Ferreira/06.R.A.P. Ferreira - gemilut hasadim (prod. brendon caroselli).mp3"
     },
     {
-      "artist": "R.A.P. Ferreira - the Light Emitting Diamond Cutter Scriptures",
+      "artist": "R.A.P. Ferreira",
+      "title": "06.R.A.P. Ferreira - sips of ripple wine (no stemware).mp3",
+      "bpm": 0,
+      "key": "A",
+      "format": "mp3",
+      "size": "3.0MB",
+      "path": "acapella/R.A.P. Ferreira/06.R.A.P. Ferreira - sips of ripple wine (no stemware).mp3"
+    },
+    {
+      "artist": "R.A.P. Ferreira",
+      "title": "06.R.A.P. Ferreira - the poem presents a glimpse.mp3",
+      "bpm": 0,
+      "key": "A",
+      "format": "mp3",
+      "size": "2.4MB",
+      "path": "acapella/R.A.P. Ferreira/06.R.A.P. Ferreira - the poem presents a glimpse.mp3"
+    },
+    {
+      "artist": "R.A.P. Ferreira",
       "title": "07.R.A.P. Ferreira - Blackmissionfigs (prod.&ft. ELDON).mp3",
       "bpm": 0,
       "key": "A",
       "format": "mp3",
       "size": "2.7MB",
-      "path": "acapella/R.A.P. Ferreira - the Light Emitting Diamond Cutter Scriptures/07.R.A.P. Ferreira - Blackmissionfigs (prod.&ft. ELDON).mp3"
+      "path": "acapella/R.A.P. Ferreira/07.R.A.P. Ferreira - Blackmissionfigs (prod.&ft. ELDON).mp3"
     },
     {
-      "artist": "R.A.P. Ferreira - the Light Emitting Diamond Cutter Scriptures",
+      "artist": "R.A.P. Ferreira",
+      "title": "07.R.A.P. Ferreira - six strings and a harmonica.mp3",
+      "bpm": 0,
+      "key": "A",
+      "format": "mp3",
+      "size": "1.9MB",
+      "path": "acapella/R.A.P. Ferreira/07.R.A.P. Ferreira - six strings and a harmonica.mp3"
+    },
+    {
+      "artist": "R.A.P. Ferreira",
+      "title": "07.R.A.P. Ferreira - skrenth.mp3",
+      "bpm": 0,
+      "key": "A",
+      "format": "mp3",
+      "size": "2.2MB",
+      "path": "acapella/R.A.P. Ferreira/07.R.A.P. Ferreira - skrenth.mp3"
+    },
+    {
+      "artist": "R.A.P. Ferreira",
+      "title": "08.R.A.P. Ferreira - bobby digital's little wings.mp3",
+      "bpm": 0,
+      "key": "A",
+      "format": "mp3",
+      "size": "2.6MB",
+      "path": "acapella/R.A.P. Ferreira/08.R.A.P. Ferreira - bobby digital's little wings.mp3"
+    },
+    {
+      "artist": "R.A.P. Ferreira",
       "title": "08.R.A.P. Ferreira - east nashville (prod. vast ness.).mp3",
       "bpm": 0,
       "key": "A",
       "format": "mp3",
       "size": "2.0MB",
-      "path": "acapella/R.A.P. Ferreira - the Light Emitting Diamond Cutter Scriptures/08.R.A.P. Ferreira - east nashville (prod. vast ness.).mp3"
+      "path": "acapella/R.A.P. Ferreira/08.R.A.P. Ferreira - east nashville (prod. vast ness.).mp3"
     },
     {
-      "artist": "R.A.P. Ferreira - the Light Emitting Diamond Cutter Scriptures",
+      "artist": "R.A.P. Ferreira",
+      "title": "08.R.A.P. Ferreira - reciting the alpha's bet.mp3",
+      "bpm": 0,
+      "key": "A",
+      "format": "mp3",
+      "size": "1.9MB",
+      "path": "acapella/R.A.P. Ferreira/08.R.A.P. Ferreira - reciting the alpha's bet.mp3"
+    },
+    {
+      "artist": "R.A.P. Ferreira",
+      "title": "09.R.A.P. Ferreira - culture jammer.mp3",
+      "bpm": 0,
+      "key": "A",
+      "format": "mp3",
+      "size": "1.9MB",
+      "path": "acapella/R.A.P. Ferreira/09.R.A.P. Ferreira - culture jammer.mp3"
+    },
+    {
+      "artist": "R.A.P. Ferreira",
+      "title": "09.R.A.P. Ferreira - listening.mp3",
+      "bpm": 0,
+      "key": "A",
+      "format": "mp3",
+      "size": "2.7MB",
+      "path": "acapella/R.A.P. Ferreira/09.R.A.P. Ferreira - listening.mp3"
+    },
+    {
+      "artist": "R.A.P. Ferreira",
       "title": "09.R.A.P. Ferreira - praise & worship (prod. argov).mp3",
       "bpm": 0,
       "key": "A",
       "format": "mp3",
       "size": "1.7MB",
-      "path": "acapella/R.A.P. Ferreira - the Light Emitting Diamond Cutter Scriptures/09.R.A.P. Ferreira - praise & worship (prod. argov).mp3"
+      "path": "acapella/R.A.P. Ferreira/09.R.A.P. Ferreira - praise & worship (prod. argov).mp3"
     },
     {
-      "artist": "R.A.P. Ferreira - the Light Emitting Diamond Cutter Scriptures",
+      "artist": "R.A.P. Ferreira",
+      "title": "10.R.A.P. Ferreira - barbados gooseberry, kiwi.mp3",
+      "bpm": 0,
+      "key": "A",
+      "format": "mp3",
+      "size": "1.5MB",
+      "path": "acapella/R.A.P. Ferreira/10.R.A.P. Ferreira - barbados gooseberry, kiwi.mp3"
+    },
+    {
+      "artist": "R.A.P. Ferreira",
+      "title": "10.R.A.P. Ferreira - high rise in newark.mp3",
+      "bpm": 0,
+      "key": "A",
+      "format": "mp3",
+      "size": "2.0MB",
+      "path": "acapella/R.A.P. Ferreira/10.R.A.P. Ferreira - high rise in newark.mp3"
+    },
+    {
+      "artist": "R.A.P. Ferreira",
       "title": "10.R.A.P. Ferreira - uptown 37 (prod. nalepa x tony bevaliacqua).mp3",
       "bpm": 0,
       "key": "A",
       "format": "mp3",
       "size": "3.3MB",
-      "path": "acapella/R.A.P. Ferreira - the Light Emitting Diamond Cutter Scriptures/10.R.A.P. Ferreira - uptown 37 (prod. nalepa x tony bevaliacqua).mp3"
+      "path": "acapella/R.A.P. Ferreira/10.R.A.P. Ferreira - uptown 37 (prod. nalepa x tony bevaliacqua).mp3"
     },
     {
-      "artist": "R.A.P. Ferreira - the Light Emitting Diamond Cutter Scriptures",
+      "artist": "R.A.P. Ferreira",
       "title": "11.R.A.P. Ferreira - hot bref (prod. pink navel).mp3",
       "bpm": 0,
       "key": "A",
       "format": "mp3",
       "size": "3.1MB",
-      "path": "acapella/R.A.P. Ferreira - the Light Emitting Diamond Cutter Scriptures/11.R.A.P. Ferreira - hot bref (prod. pink navel).mp3"
+      "path": "acapella/R.A.P. Ferreira/11.R.A.P. Ferreira - hot bref (prod. pink navel).mp3"
     },
     {
-      "artist": "RED WALL - (Boyle) and Piles EP",
-      "title": "1.RED WALL - (Boyle) and Piles EP.mp3",
+      "artist": "R.A.P. Ferreira",
+      "title": "11.R.A.P. Ferreira - rather difficult.mp3",
+      "bpm": 0,
+      "key": "A",
+      "format": "mp3",
+      "size": "2.9MB",
+      "path": "acapella/R.A.P. Ferreira/11.R.A.P. Ferreira - rather difficult.mp3"
+    },
+    {
+      "artist": "R.A.P. Ferreira",
+      "title": "11.R.A.P. Ferreira - rejoice ft Eldon Somers.mp3",
+      "bpm": 0,
+      "key": "A",
+      "format": "mp3",
+      "size": "4.1MB",
+      "path": "acapella/R.A.P. Ferreira/11.R.A.P. Ferreira - rejoice ft Eldon Somers.mp3"
+    },
+    {
+      "artist": "R.A.P. Ferreira",
+      "title": "12.R.A.P. Ferreira - abomunist manifesto.mp3",
+      "bpm": 0,
+      "key": "A",
+      "format": "mp3",
+      "size": "2.5MB",
+      "path": "acapella/R.A.P. Ferreira/12.R.A.P. Ferreira - abomunist manifesto.mp3"
+    },
+    {
+      "artist": "R.A.P. Ferreira",
+      "title": "12.R.A.P. Ferreira - oblivious butterfly.mp3",
+      "bpm": 0,
+      "key": "A",
+      "format": "mp3",
+      "size": "1.6MB",
+      "path": "acapella/R.A.P. Ferreira/12.R.A.P. Ferreira - oblivious butterfly.mp3"
+    },
+    {
+      "artist": "R.A.P. Ferreira",
+      "title": "13.R.A.P. Ferreira - when my eldest daughter asks how old i am.mp3",
+      "bpm": 0,
+      "key": "A",
+      "format": "mp3",
+      "size": "1.4MB",
+      "path": "acapella/R.A.P. Ferreira/13.R.A.P. Ferreira - when my eldest daughter asks how old i am.mp3"
+    },
+    {
+      "artist": "R.A.P. Ferreira",
+      "title": "14.R.A.P. Ferreira - i'll turn your money green.mp3",
+      "bpm": 0,
+      "key": "A",
+      "format": "mp3",
+      "size": "2.4MB",
+      "path": "acapella/R.A.P. Ferreira/14.R.A.P. Ferreira - i'll turn your money green.mp3"
+    },
+    {
+      "artist": "R.A.P. Ferreira",
+      "title": "15.R.A.P. Ferreira - mana from momma.mp3",
+      "bpm": 0,
+      "key": "A",
+      "format": "mp3",
+      "size": "0.5MB",
+      "path": "acapella/R.A.P. Ferreira/15.R.A.P. Ferreira - mana from momma.mp3"
+    },
+    {
+      "artist": "Rafael",
+      "title": "Rafael Cameron Boogies Gonna Get Ya.m4a",
       "bpm": 0,
       "key": "Unknown",
-      "format": "mp3",
-      "size": "18.6MB",
-      "path": "acapella/RED WALL - (Boyle) and Piles EP/1.RED WALL - (Boyle) and Piles EP.mp3"
+      "format": "m4a",
+      "size": "0.9MB",
+      "path": "acapella/Rafael/Rafael Cameron Boogies Gonna Get Ya.m4a"
     },
     {
       "artist": "Ramzoid",
@@ -2052,6 +3204,51 @@
       "format": "mp3",
       "size": "3.2MB",
       "path": "acapella/Ramzoid/ramzoid, kaycyy - spells (122).mp3"
+    },
+    {
+      "artist": "Ray Vaughn",
+      "title": "Ray Vaughn Dollar Menu.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "4.1MB",
+      "path": "acapella/Ray Vaughn/Ray Vaughn Dollar Menu.m4a"
+    },
+    {
+      "artist": "Roland Clark",
+      "title": "Roland Clark - Deep In My Last Life.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "0.3MB",
+      "path": "acapella/Roland Clark/Roland Clark - Deep In My Last Life.m4a"
+    },
+    {
+      "artist": "Roland Clark",
+      "title": "Roland Clark - When House Was Young.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "0.2MB",
+      "path": "acapella/Roland Clark/Roland Clark - When House Was Young.m4a"
+    },
+    {
+      "artist": "Rudimental",
+      "title": "Rudimental All I Know (feat. Khalid).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.7MB",
+      "path": "acapella/Rudimental/Rudimental All I Know (feat. Khalid).m4a"
+    },
+    {
+      "artist": "Russ",
+      "title": "Russ April 7.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.8MB",
+      "path": "acapella/Russ/Russ April 7.m4a"
     },
     {
       "artist": "SWV",
@@ -2117,22 +3314,112 @@
       "path": "acapella/SZA/SZA - The Weekend, Ab Minor, BPM 73.mp3"
     },
     {
-      "artist": "Scallops Hotel",
-      "title": "Scallops Hotel - Whereareewe (1).mp3",
+      "artist": "Sailorr",
+      "title": "Sailorr - Down Bad.m4a",
       "bpm": 0,
       "key": "Unknown",
-      "format": "mp3",
-      "size": "2.7MB",
-      "path": "acapella/Scallops Hotel/Scallops Hotel - Whereareewe (1).mp3"
+      "format": "m4a",
+      "size": "2.1MB",
+      "path": "acapella/Sailorr/Sailorr - Down Bad.m4a"
     },
     {
-      "artist": "Scallops Hotel",
-      "title": "Scallops Hotel - Xergiok's Chagrin (a Song For Jib).mp3",
+      "artist": "Saweetie",
+      "title": "Saweetie - Pissed.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "0.4MB",
+      "path": "acapella/Saweetie/Saweetie - Pissed.m4a"
+    },
+    {
+      "artist": "Scowl",
+      "title": "Scowl - Fantasy.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.3MB",
+      "path": "acapella/Scowl/Scowl - Fantasy.m4a"
+    },
+    {
+      "artist": "Seals And Crofts",
+      "title": "Seals And Crofts - Summer Breeze.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "1.8MB",
+      "path": "acapella/Seals And Crofts/Seals And Crofts - Summer Breeze.m4a"
+    },
+    {
+      "artist": "Seeb",
+      "title": "Seeb - Free To Go (feat. Highasakite).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "0.3MB",
+      "path": "acapella/Seeb/Seeb - Free To Go (feat. Highasakite).m4a"
+    },
+    {
+      "artist": "Sexyy Red",
+      "title": "Sexyy Red - Hoochie Coochie.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.3MB",
+      "path": "acapella/Sexyy Red/Sexyy Red - Hoochie Coochie.m4a"
+    },
+    {
+      "artist": "Shoreline Mafia",
+      "title": "Shoreline Mafia - Shoreline Twins (feat. Ohgeesy, Fenix Flexin).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.1MB",
+      "path": "acapella/Shoreline Mafia/Shoreline Mafia - Shoreline Twins (feat. Ohgeesy, Fenix Flexin).m4a"
+    },
+    {
+      "artist": "Sir",
+      "title": "Sir Out Of My Hands (feat. Maeta).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.9MB",
+      "path": "acapella/Sir/Sir Out Of My Hands (feat. Maeta).m4a"
+    },
+    {
+      "artist": "Sister Sledge",
+      "title": "Sister Sledge - Thinking Of You.mp3",
       "bpm": 0,
       "key": "Unknown",
       "format": "mp3",
-      "size": "2.8MB",
-      "path": "acapella/Scallops Hotel/Scallops Hotel - Xergiok's Chagrin (a Song For Jib).mp3"
+      "size": "0.2MB",
+      "path": "acapella/Sister Sledge/Sister Sledge - Thinking Of You.mp3"
+    },
+    {
+      "artist": "Sleep Token",
+      "title": "Sleep Token - Caramel.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "4.5MB",
+      "path": "acapella/Sleep Token/Sleep Token - Caramel.m4a"
+    },
+    {
+      "artist": "Sleepy Hallow",
+      "title": "Sleepy Hallow Anxiety (feat. Doechii).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.3MB",
+      "path": "acapella/Sleepy Hallow/Sleepy Hallow Anxiety (feat. Doechii).m4a"
+    },
+    {
+      "artist": "Snap!",
+      "title": "Snap! Rhythm Is A Dancer.m4a",
+      "bpm": 0,
+      "key": "A",
+      "format": "m4a",
+      "size": "2.2MB",
+      "path": "acapella/Snap!/Snap! Rhythm Is A Dancer.m4a"
     },
     {
       "artist": "Snoop Dogg",
@@ -2142,6 +3429,60 @@
       "format": "mp3",
       "size": "8.2MB",
       "path": "acapella/Snoop Dogg/Snoop Dogg - Sensual Seduction - BPM 120 - B Major.mp3"
+    },
+    {
+      "artist": "Snoop Dogg",
+      "title": "Snoop Doggy Dogg Ain't No Fun.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "1.1MB",
+      "path": "acapella/Snoop Dogg/Snoop Doggy Dogg Ain't No Fun.m4a"
+    },
+    {
+      "artist": "Soft Cell",
+      "title": "Soft Cell Tainted Love.mp3",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "mp3",
+      "size": "0.2MB",
+      "path": "acapella/Soft Cell/Soft Cell Tainted Love.mp3"
+    },
+    {
+      "artist": "Spandau Ballet",
+      "title": "Spandau Ballet - Gold.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.2MB",
+      "path": "acapella/Spandau Ballet/Spandau Ballet - Gold.m4a"
+    },
+    {
+      "artist": "Spandau Ballet",
+      "title": "Spandau Ballet - True.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.8MB",
+      "path": "acapella/Spandau Ballet/Spandau Ballet - True.m4a"
+    },
+    {
+      "artist": "Stevie Wonder",
+      "title": "Stevie Wonder - I Wish.mp3",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "mp3",
+      "size": "0.2MB",
+      "path": "acapella/Stevie Wonder/Stevie Wonder - I Wish.mp3"
+    },
+    {
+      "artist": "Subtronics",
+      "title": "Subtronics Final Breath (feat. A Little Sound).m4a",
+      "bpm": 0,
+      "key": "A",
+      "format": "m4a",
+      "size": "3.5MB",
+      "path": "acapella/Subtronics/Subtronics Final Breath (feat. A Little Sound).m4a"
     },
     {
       "artist": "Summer Walker",
@@ -2198,6 +3539,24 @@
       "path": "acapella/Summer Walker/Summer Walker - Tonight (Acapella), C# Major, BPM 106.mp3"
     },
     {
+      "artist": "Supermode",
+      "title": "Supermode - Tell Me Why.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.6MB",
+      "path": "acapella/Supermode/Supermode - Tell Me Why.m4a"
+    },
+    {
+      "artist": "Sydney Rose",
+      "title": "Sydney Rose 5 More Minutes.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.6MB",
+      "path": "acapella/Sydney Rose/Sydney Rose 5 More Minutes.m4a"
+    },
+    {
       "artist": "T-Pain",
       "title": "T-Pain - Bartender (feat. Akon) - BPM 105 - Ab Major.mp3",
       "bpm": 0,
@@ -2205,6 +3564,33 @@
       "format": "mp3",
       "size": "9.2MB",
       "path": "acapella/T-Pain/T-Pain - Bartender (feat. Akon) - BPM 105 - Ab Major.mp3"
+    },
+    {
+      "artist": "T.I",
+      "title": "T.i. Whatever You Like.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.9MB",
+      "path": "acapella/T.I/T.i. Whatever You Like.m4a"
+    },
+    {
+      "artist": "TV Girl",
+      "title": "Tv Girl Messy Hair (feat. George Clanton, Magdalena Bay).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "1.8MB",
+      "path": "acapella/TV Girl/Tv Girl Messy Hair (feat. George Clanton, Magdalena Bay).m4a"
+    },
+    {
+      "artist": "Tate Mcrae",
+      "title": "Tate Mcrae - Sports Car.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.6MB",
+      "path": "acapella/Tate Mcrae/Tate Mcrae - Sports Car.m4a"
     },
     {
       "artist": "Tay-K",
@@ -2270,157 +3656,49 @@
       "path": "acapella/Tay-K/Tay-K - The Race, A Major, BPM 160/Track 5 (Tay-K - The Race).wav"
     },
     {
-      "artist": "The Goodwill Projects - A Love Called Soul Power",
-      "title": "1.The Goodwill Projects - A Love Called Soul Power.mp3",
-      "bpm": 0,
-      "key": "A",
-      "format": "mp3",
-      "size": "3.4MB",
-      "path": "acapella/The Goodwill Projects - A Love Called Soul Power/1.The Goodwill Projects - A Love Called Soul Power.mp3"
-    },
-    {
-      "artist": "The Goodwill Projects - Milorgia - And So The Flies Don't Come To Georgia",
-      "title": "01.The Goodwill Projects - intro - milorgia - astfdctg.mp3",
+      "artist": "Taya",
+      "title": "Taya The Reminder.m4a",
       "bpm": 0,
       "key": "Unknown",
-      "format": "mp3",
-      "size": "1.6MB",
-      "path": "acapella/The Goodwill Projects - Milorgia - And So The Flies Don't Come To Georgia/01.The Goodwill Projects - intro - milorgia - astfdctg.mp3"
+      "format": "m4a",
+      "size": "3.8MB",
+      "path": "acapella/Taya/Taya The Reminder.m4a"
     },
     {
-      "artist": "The Goodwill Projects - Milorgia - And So The Flies Don't Come To Georgia",
-      "title": "02.The Goodwill Projects - a love called soul power.mp3",
+      "artist": "Taylor Dayne",
+      "title": "Taylor Dayne Prove Your Love.m4a",
       "bpm": 0,
       "key": "Unknown",
-      "format": "mp3",
-      "size": "3.3MB",
-      "path": "acapella/The Goodwill Projects - Milorgia - And So The Flies Don't Come To Georgia/02.The Goodwill Projects - a love called soul power.mp3"
+      "format": "m4a",
+      "size": "1.5MB",
+      "path": "acapella/Taylor Dayne/Taylor Dayne Prove Your Love.m4a"
     },
     {
-      "artist": "The Goodwill Projects - Milorgia - And So The Flies Don't Come To Georgia",
-      "title": "03.The Goodwill Projects - true nen blues (feat. open mike eagle).mp3",
+      "artist": "Tee Grizzley",
+      "title": "Tee Grizzley Suffer In Silence.m4a",
       "bpm": 0,
       "key": "Unknown",
-      "format": "mp3",
-      "size": "5.9MB",
-      "path": "acapella/The Goodwill Projects - Milorgia - And So The Flies Don't Come To Georgia/03.The Goodwill Projects - true nen blues (feat. open mike eagle).mp3"
+      "format": "m4a",
+      "size": "2.5MB",
+      "path": "acapella/Tee Grizzley/Tee Grizzley Suffer In Silence.m4a"
     },
     {
-      "artist": "The Goodwill Projects - Milorgia - And So The Flies Don't Come To Georgia",
-      "title": "04.The Goodwill Projects - yomilo action groove.mp3",
+      "artist": "That",
+      "title": "That Mexican Ot Samsung Screenz (feat. Sauce Walka).m4a",
       "bpm": 0,
       "key": "Unknown",
-      "format": "mp3",
-      "size": "3.2MB",
-      "path": "acapella/The Goodwill Projects - Milorgia - And So The Flies Don't Come To Georgia/04.The Goodwill Projects - yomilo action groove.mp3"
+      "format": "m4a",
+      "size": "3.1MB",
+      "path": "acapella/That/That Mexican Ot Samsung Screenz (feat. Sauce Walka).m4a"
     },
     {
-      "artist": "The Goodwill Projects - Milorgia - And So The Flies Don't Come To Georgia",
-      "title": "05.The Goodwill Projects - intermission a - milorgia.mp3",
+      "artist": "The Chainsmokers",
+      "title": "The Chainsmokers Takeaway.m4a",
       "bpm": 0,
       "key": "Unknown",
-      "format": "mp3",
-      "size": "0.9MB",
-      "path": "acapella/The Goodwill Projects - Milorgia - And So The Flies Don't Come To Georgia/05.The Goodwill Projects - intermission a - milorgia.mp3"
-    },
-    {
-      "artist": "The Goodwill Projects - Milorgia - And So The Flies Don't Come To Georgia",
-      "title": "06.The Goodwill Projects - unforgettable animist.mp3",
-      "bpm": 0,
-      "key": "Unknown",
-      "format": "mp3",
-      "size": "4.2MB",
-      "path": "acapella/The Goodwill Projects - Milorgia - And So The Flies Don't Come To Georgia/06.The Goodwill Projects - unforgettable animist.mp3"
-    },
-    {
-      "artist": "The Goodwill Projects - Milorgia - And So The Flies Don't Come To Georgia",
-      "title": "07.The Goodwill Projects - slow drag scientists (feat. myka 9).mp3",
-      "bpm": 0,
-      "key": "Unknown",
-      "format": "mp3",
-      "size": "3.9MB",
-      "path": "acapella/The Goodwill Projects - Milorgia - And So The Flies Don't Come To Georgia/07.The Goodwill Projects - slow drag scientists (feat. myka 9).mp3"
-    },
-    {
-      "artist": "The Goodwill Projects - Milorgia - And So The Flies Don't Come To Georgia",
-      "title": "08.The Goodwill Projects - ayunvenir (feat. hemlock ernst).mp3",
-      "bpm": 0,
-      "key": "Unknown",
-      "format": "mp3",
-      "size": "3.9MB",
-      "path": "acapella/The Goodwill Projects - Milorgia - And So The Flies Don't Come To Georgia/08.The Goodwill Projects - ayunvenir (feat. hemlock ernst).mp3"
-    },
-    {
-      "artist": "The Goodwill Projects - Milorgia - And So The Flies Don't Come To Georgia",
-      "title": "09.The Goodwill Projects - intermission b - milorgia.mp3",
-      "bpm": 0,
-      "key": "Unknown",
-      "format": "mp3",
-      "size": "1.0MB",
-      "path": "acapella/The Goodwill Projects - Milorgia - And So The Flies Don't Come To Georgia/09.The Goodwill Projects - intermission b - milorgia.mp3"
-    },
-    {
-      "artist": "The Goodwill Projects - Milorgia - And So The Flies Don't Come To Georgia",
-      "title": "10.The Goodwill Projects - an encyclopedia garden.mp3",
-      "bpm": 0,
-      "key": "Unknown",
-      "format": "mp3",
-      "size": "5.6MB",
-      "path": "acapella/The Goodwill Projects - Milorgia - And So The Flies Don't Come To Georgia/10.The Goodwill Projects - an encyclopedia garden.mp3"
-    },
-    {
-      "artist": "The Goodwill Projects - Milorgia - And So The Flies Don't Come To Georgia",
-      "title": "11.The Goodwill Projects - going back to my place (feat. elucid).mp3",
-      "bpm": 0,
-      "key": "Unknown",
-      "format": "mp3",
-      "size": "4.6MB",
-      "path": "acapella/The Goodwill Projects - Milorgia - And So The Flies Don't Come To Georgia/11.The Goodwill Projects - going back to my place (feat. elucid).mp3"
-    },
-    {
-      "artist": "The Goodwill Projects - Milorgia - And So The Flies Don't Come To Georgia",
-      "title": "12.The Goodwill Projects - rabble afrouse.mp3",
-      "bpm": 0,
-      "key": "Unknown",
-      "format": "mp3",
-      "size": "1.9MB",
-      "path": "acapella/The Goodwill Projects - Milorgia - And So The Flies Don't Come To Georgia/12.The Goodwill Projects - rabble afrouse.mp3"
-    },
-    {
-      "artist": "The Goodwill Projects - Milorgia - And So The Flies Don't Come To Georgia",
-      "title": "13.The Goodwill Projects - outroyoself.mp3",
-      "bpm": 0,
-      "key": "Unknown",
-      "format": "mp3",
-      "size": "2.8MB",
-      "path": "acapella/The Goodwill Projects - Milorgia - And So The Flies Don't Come To Georgia/13.The Goodwill Projects - outroyoself.mp3"
-    },
-    {
-      "artist": "The Goodwill Projects - Milorgia - And So The Flies Don't Come To Georgia",
-      "title": "14.The Goodwill Projects - almost a dust down (bonus).mp3",
-      "bpm": 0,
-      "key": "Unknown",
-      "format": "mp3",
-      "size": "3.5MB",
-      "path": "acapella/The Goodwill Projects - Milorgia - And So The Flies Don't Come To Georgia/14.The Goodwill Projects - almost a dust down (bonus).mp3"
-    },
-    {
-      "artist": "The Goodwill Projects - Milorgia - And So The Flies Don't Come To Georgia",
-      "title": "15.The Goodwill Projects - wurlds2run(feat. a. .paak + busdriver (bonus).mp3",
-      "bpm": 0,
-      "key": "Unknown",
-      "format": "mp3",
-      "size": "4.9MB",
-      "path": "acapella/The Goodwill Projects - Milorgia - And So The Flies Don't Come To Georgia/15.The Goodwill Projects - wurlds2run(feat. a. .paak + busdriver (bonus).mp3"
-    },
-    {
-      "artist": "The Goodwill Projects - Milorgia - And So The Flies Don't Come To Georgia",
-      "title": "16.The Goodwill Projects - motherboard doldrums (bonus).mp3",
-      "bpm": 0,
-      "key": "Unknown",
-      "format": "mp3",
-      "size": "13.8MB",
-      "path": "acapella/The Goodwill Projects - Milorgia - And So The Flies Don't Come To Georgia/16.The Goodwill Projects - motherboard doldrums (bonus).mp3"
+      "format": "m4a",
+      "size": "0.4MB",
+      "path": "acapella/The Chainsmokers/The Chainsmokers Takeaway.m4a"
     },
     {
       "artist": "The Kid Laroi",
@@ -2441,6 +3719,105 @@
       "path": "acapella/The Kid Laroi/The Kid LAROI, Justin Bieber - Stay, Db Major, BPM 170 (Version DIY 2).mp3"
     },
     {
+      "artist": "The O'jays",
+      "title": "The O'jays - Give The People What They Want (21 Tracks).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "1.5MB",
+      "path": "acapella/The O'jays/The O'jays - Give The People What They Want (21 Tracks).m4a"
+    },
+    {
+      "artist": "The O'jays",
+      "title": "The O'jays - Love Train.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "1.3MB",
+      "path": "acapella/The O'jays/The O'jays - Love Train.m4a"
+    },
+    {
+      "artist": "The Pointer",
+      "title": "The Pointer - Sisters Be There.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "0.4MB",
+      "path": "acapella/The Pointer/The Pointer - Sisters Be There.m4a"
+    },
+    {
+      "artist": "The Pretenders",
+      "title": "The Pretenders - I'll Stand By You.mp3",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "mp3",
+      "size": "0.2MB",
+      "path": "acapella/The Pretenders/The Pretenders - I'll Stand By You.mp3"
+    },
+    {
+      "artist": "The Pretenders",
+      "title": "The Pretenders - Middle Of The Road.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "1.2MB",
+      "path": "acapella/The Pretenders/The Pretenders - Middle Of The Road.m4a"
+    },
+    {
+      "artist": "The Proclaimers",
+      "title": "The Proclaimers - I’m Gonna Be 500 Miles Remix.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "1.7MB",
+      "path": "acapella/The Proclaimers/The Proclaimers - I’m Gonna Be 500 Miles Remix.m4a"
+    },
+    {
+      "artist": "The Spinners",
+      "title": "The Spinners - It's A Shame (13 Mono Tracks).m4a",
+      "bpm": 0,
+      "key": "A",
+      "format": "m4a",
+      "size": "1.0MB",
+      "path": "acapella/The Spinners/The Spinners - It's A Shame (13 Mono Tracks).m4a"
+    },
+    {
+      "artist": "The Weeknd",
+      "title": "The Weeknd - Blinding Lights.mp3",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "mp3",
+      "size": "0.2MB",
+      "path": "acapella/The Weeknd/The Weeknd - Blinding Lights.mp3"
+    },
+    {
+      "artist": "The Weeknd",
+      "title": "The Weeknd - Timeless (feat. Playboi Carti).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "4.0MB",
+      "path": "acapella/The Weeknd/The Weeknd - Timeless (feat. Playboi Carti).m4a"
+    },
+    {
+      "artist": "The Zombies",
+      "title": "The Zombies - She’s Not There.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "0.4MB",
+      "path": "acapella/The Zombies/The Zombies - She’s Not There.m4a"
+    },
+    {
+      "artist": "Thelma Houston",
+      "title": "Thelma Houston - All Of That.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "0.5MB",
+      "path": "acapella/Thelma Houston/Thelma Houston - All Of That.m4a"
+    },
+    {
       "artist": "Timbaland",
       "title": "Timbaland - Say Something (Feat. Drake) - BPM 160 - B Major.mp3",
       "bpm": 0,
@@ -2457,6 +3834,24 @@
       "format": "mp3",
       "size": "8.0MB",
       "path": "acapella/Travis Porter/Travis Porter - Ayy Ladies (feat. Tyga) - BPM 96 - Bb Minor.mp3"
+    },
+    {
+      "artist": "Travis Scott",
+      "title": "Travis Scott - 4x4.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.0MB",
+      "path": "acapella/Travis Scott/Travis Scott - 4x4.m4a"
+    },
+    {
+      "artist": "Travis Scott",
+      "title": "Travis Scott - Fe!n (feat. Playboi Carti).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.0MB",
+      "path": "acapella/Travis Scott/Travis Scott - Fe!n (feat. Playboi Carti).m4a"
     },
     {
       "artist": "Travis Scott",
@@ -2567,6 +3962,24 @@
       "path": "acapella/Trey Songz/Trey Songz - Can't Help But Wait (Acapella) - Ab Minor - 95.mp3"
     },
     {
+      "artist": "Trey Songz",
+      "title": "Trey Songz Nobody Else But You.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "0.3MB",
+      "path": "acapella/Trey Songz/Trey Songz Nobody Else But You.m4a"
+    },
+    {
+      "artist": "Tripolism",
+      "title": "Tripolism Groove On (feat. Avangart Tabldot).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.3MB",
+      "path": "acapella/Tripolism/Tripolism Groove On (feat. Avangart Tabldot).m4a"
+    },
+    {
       "artist": "Trippie Redd",
       "title": "Trippie Redd - Love Me More (Studio Acapella).mp3",
       "bpm": 0,
@@ -2574,6 +3987,33 @@
       "format": "mp3",
       "size": "3.4MB",
       "path": "acapella/Trippie Redd/Trippie Redd - Love Me More (Studio Acapella).mp3"
+    },
+    {
+      "artist": "Turbo",
+      "title": "Turbo Classy Girl (feat. Gunna).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.7MB",
+      "path": "acapella/Turbo/Turbo Classy Girl (feat. Gunna).m4a"
+    },
+    {
+      "artist": "Tyga",
+      "title": "Tyga Pop It Off (feat. Lil Wayne).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.9MB",
+      "path": "acapella/Tyga/Tyga Pop It Off (feat. Lil Wayne).m4a"
+    },
+    {
+      "artist": "Tyler",
+      "title": "Tyler Sticky (feat. Glorilla, Sexyy Red & Lil Wayne, The Creator, Sexyy Red, Lil Wayne).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "4.0MB",
+      "path": "acapella/Tyler/Tyler Sticky (feat. Glorilla, Sexyy Red & Lil Wayne, The Creator, Sexyy Red, Lil Wayne).m4a"
     },
     {
       "artist": "Tyler The Creator",
@@ -2639,6 +4079,15 @@
       "path": "acapella/Tyler The Creator/tyler the creator, frank ocean - where this flower blooms (acapella).mp3"
     },
     {
+      "artist": "U2",
+      "title": "U2 California There Is No Need To Love.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "0.4MB",
+      "path": "acapella/U2/U2 California There Is No Need To Love.m4a"
+    },
+    {
       "artist": "V9",
       "title": "V9 - Vikings (Acapella), BPM 140.mp3",
       "bpm": 0,
@@ -2646,6 +4095,69 @@
       "format": "mp3",
       "size": "4.8MB",
       "path": "acapella/V9/V9 - Vikings (Acapella), BPM 140.mp3"
+    },
+    {
+      "artist": "Wakyin",
+      "title": "Wakyin - Matador (feat. Vibarco).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.3MB",
+      "path": "acapella/Wakyin/Wakyin - Matador (feat. Vibarco).m4a"
+    },
+    {
+      "artist": "Was",
+      "title": "Was - Not Was Walk The Dinosaur.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "0.2MB",
+      "path": "acapella/Was/Was - Not Was Walk The Dinosaur.m4a"
+    },
+    {
+      "artist": "Waylon",
+      "title": "Waylon Wyatt -smoke & Embers (feat. Willow Avalon).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.5MB",
+      "path": "acapella/Waylon/Waylon Wyatt -smoke & Embers (feat. Willow Avalon).m4a"
+    },
+    {
+      "artist": "Wet Leg",
+      "title": "Wet Leg - Catch These Fists.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "3.0MB",
+      "path": "acapella/Wet Leg/Wet Leg - Catch These Fists.m4a"
+    },
+    {
+      "artist": "Whitesnake",
+      "title": "Whitesnake - Here I Go Again.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "0.4MB",
+      "path": "acapella/Whitesnake/Whitesnake - Here I Go Again.m4a"
+    },
+    {
+      "artist": "Whitney Houston",
+      "title": "Whitney Houston - I'm Every Woman.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "1.4MB",
+      "path": "acapella/Whitney Houston/Whitney Houston - I'm Every Woman.m4a"
+    },
+    {
+      "artist": "Willow",
+      "title": "Willow - B I G F E E L I N G S.m4a",
+      "bpm": 0,
+      "key": "B",
+      "format": "m4a",
+      "size": "4.1MB",
+      "path": "acapella/Willow/Willow - B I G F E E L I N G S.m4a"
     },
     {
       "artist": "Wolfacejoeyy",
@@ -3161,6 +4673,15 @@
       "path": "acapella/Your Stepdad/Your Stepdad - ‘til It’s Backwards (prod. Justxrolo + Mathiastyner).mp3"
     },
     {
+      "artist": "Ytb Fatt",
+      "title": "Ytb Fatt - Yessirski (feat. Rob49).m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "1.6MB",
+      "path": "acapella/Ytb Fatt/Ytb Fatt - Yessirski (feat. Rob49).m4a"
+    },
+    {
       "artist": "Zedd",
       "title": "Zedd - Clarity (Feat. Foxes), Ab Major, BPM 128.mp3",
       "bpm": 0,
@@ -3170,292 +4691,13 @@
       "path": "acapella/Zedd/Zedd - Clarity (Feat. Foxes), Ab Major, BPM 128.mp3"
     },
     {
-      "artist": "milo - who told you to think¿¿!!¿!¿!¿!",
-      "title": "01.milo - poet (Black bean).mp3",
+      "artist": "the goodwill projects - Re-Endtroducing; The Second Album",
+      "title": "01.The Goodwill Projects - intro - milorgia - astfdctg.mp3",
       "bpm": 0,
       "key": "Unknown",
       "format": "mp3",
-      "size": "2.7MB",
-      "path": "acapella/milo - who told you to think¿¿!!¿!¿!¿!/01.milo - poet (Black bean).mp3"
-    },
-    {
-      "artist": "milo - who told you to think¿¿!!¿!¿!¿!",
-      "title": "02.milo - landscaping (feat. ELUCID).mp3",
-      "bpm": 0,
-      "key": "Unknown",
-      "format": "mp3",
-      "size": "3.0MB",
-      "path": "acapella/milo - who told you to think¿¿!!¿!¿!¿!/02.milo - landscaping (feat. ELUCID).mp3"
-    },
-    {
-      "artist": "milo - who told you to think¿¿!!¿!¿!¿!",
-      "title": "03.milo - call + form (picture).mp3",
-      "bpm": 0,
-      "key": "Unknown",
-      "format": "mp3",
-      "size": "3.6MB",
-      "path": "acapella/milo - who told you to think¿¿!!¿!¿!¿!/03.milo - call + form (picture).mp3"
-    },
-    {
-      "artist": "milo - who told you to think¿¿!!¿!¿!¿!",
-      "title": "04.milo - magician (suture).mp3",
-      "bpm": 0,
-      "key": "Unknown",
-      "format": "mp3",
-      "size": "2.2MB",
-      "path": "acapella/milo - who told you to think¿¿!!¿!¿!¿!/04.milo - magician (suture).mp3"
-    },
-    {
-      "artist": "milo - who told you to think¿¿!!¿!¿!¿!",
-      "title": "05.milo - the young man has a point (nurture) [feat. YOUNGMAN].mp3",
-      "bpm": 0,
-      "key": "Unknown",
-      "format": "mp3",
-      "size": "1.4MB",
-      "path": "acapella/milo - who told you to think¿¿!!¿!¿!¿!/05.milo - the young man has a point (nurture) [feat. YOUNGMAN].mp3"
-    },
-    {
-      "artist": "milo - who told you to think¿¿!!¿!¿!¿!",
-      "title": "06.milo - pablum ⁄⁄ CELESKINGIII.mp3",
-      "bpm": 0,
-      "key": "Unknown",
-      "format": "mp3",
-      "size": "2.2MB",
-      "path": "acapella/milo - who told you to think¿¿!!¿!¿!¿!/06.milo - pablum ⁄⁄ CELESKINGIII.mp3"
-    },
-    {
-      "artist": "milo - who told you to think¿¿!!¿!¿!¿!",
-      "title": "07.milo - note to mrs.mp3",
-      "bpm": 0,
-      "key": "Unknown",
-      "format": "mp3",
-      "size": "1.8MB",
-      "path": "acapella/milo - who told you to think¿¿!!¿!¿!¿!/07.milo - note to mrs.mp3"
-    },
-    {
-      "artist": "milo - who told you to think¿¿!!¿!¿!¿!",
-      "title": "08.milo - paging mr. bill nunn.mp3",
-      "bpm": 0,
-      "key": "Unknown",
-      "format": "mp3",
-      "size": "2.6MB",
-      "path": "acapella/milo - who told you to think¿¿!!¿!¿!¿!/08.milo - paging mr. bill nunn.mp3"
-    },
-    {
-      "artist": "milo - who told you to think¿¿!!¿!¿!¿!",
-      "title": "09.milo - sorcerer.mp3",
-      "bpm": 0,
-      "key": "Unknown",
-      "format": "mp3",
-      "size": "2.5MB",
-      "path": "acapella/milo - who told you to think¿¿!!¿!¿!¿!/09.milo - sorcerer.mp3"
-    },
-    {
-      "artist": "milo - who told you to think¿¿!!¿!¿!¿!",
-      "title": "10.milo - take advantage of the naysayer.mp3",
-      "bpm": 0,
-      "key": "Unknown",
-      "format": "mp3",
-      "size": "2.8MB",
-      "path": "acapella/milo - who told you to think¿¿!!¿!¿!¿!/10.milo - take advantage of the naysayer.mp3"
-    },
-    {
-      "artist": "milo - who told you to think¿¿!!¿!¿!¿!",
-      "title": "11.milo - idk.mp3",
-      "bpm": 0,
-      "key": "Unknown",
-      "format": "mp3",
-      "size": "1.3MB",
-      "path": "acapella/milo - who told you to think¿¿!!¿!¿!¿!/11.milo - idk.mp3"
-    },
-    {
-      "artist": "milo - who told you to think¿¿!!¿!¿!¿!",
-      "title": "12.milo - yet another (feat. Lorde Fredd33, YCP Beno and Signor Benedick the Moor).mp3",
-      "bpm": 0,
-      "key": "Unknown",
-      "format": "mp3",
-      "size": "3.7MB",
-      "path": "acapella/milo - who told you to think¿¿!!¿!¿!¿!/12.milo - yet another (feat. Lorde Fredd33, YCP Beno and Signor Benedick the Moor).mp3"
-    },
-    {
-      "artist": "milo - who told you to think¿¿!!¿!¿!¿!",
-      "title": "13.milo - ornette's swan song (feat. Self Jupiter).mp3",
-      "bpm": 0,
-      "key": "Unknown",
-      "format": "mp3",
-      "size": "2.4MB",
-      "path": "acapella/milo - who told you to think¿¿!!¿!¿!¿!/13.milo - ornette's swan song (feat. Self Jupiter).mp3"
-    },
-    {
-      "artist": "milo - who told you to think¿¿!!¿!¿!¿!",
-      "title": "14.milo - embroidering machine.mp3",
-      "bpm": 0,
-      "key": "Unknown",
-      "format": "mp3",
-      "size": "4.0MB",
-      "path": "acapella/milo - who told you to think¿¿!!¿!¿!¿!/14.milo - embroidering machine.mp3"
-    },
-    {
-      "artist": "milo - who told you to think¿¿!!¿!¿!¿!",
-      "title": "15.milo - rapper (feat. Busdriver).mp3",
-      "bpm": 0,
-      "key": "Unknown",
-      "format": "mp3",
-      "size": "3.9MB",
-      "path": "acapella/milo - who told you to think¿¿!!¿!¿!¿!/15.milo - rapper (feat. Busdriver).mp3"
-    },
-    {
-      "artist": "the goodwill projects - MoQuannum; Soul To Sole",
-      "title": "01.the goodwill projects - 01-Intro-Subsoniq (feat. Joyo Velarde).mp3",
-      "bpm": 0,
-      "key": "Unknown",
-      "format": "mp3",
-      "size": "2.8MB",
-      "path": "acapella/the goodwill projects - MoQuannum; Soul To Sole/01.the goodwill projects - 01-Intro-Subsoniq (feat. Joyo Velarde).mp3"
-    },
-    {
-      "artist": "the goodwill projects - MoQuannum; Soul To Sole",
-      "title": "02.the goodwill projects - 02-What The Quannum World Is Today.mp3",
-      "bpm": 0,
-      "key": "Unknown",
-      "format": "mp3",
-      "size": "4.5MB",
-      "path": "acapella/the goodwill projects - MoQuannum; Soul To Sole/02.the goodwill projects - 02-What The Quannum World Is Today.mp3"
-    },
-    {
-      "artist": "the goodwill projects - MoQuannum; Soul To Sole",
-      "title": "03.the goodwill projects - 03-Cruisin' With Passion (feat. Rakaa).mp3",
-      "bpm": 0,
-      "key": "Unknown",
-      "format": "mp3",
-      "size": "4.1MB",
-      "path": "acapella/the goodwill projects - MoQuannum; Soul To Sole/03.the goodwill projects - 03-Cruisin' With Passion (feat. Rakaa).mp3"
-    },
-    {
-      "artist": "the goodwill projects - MoQuannum; Soul To Sole",
-      "title": "04.the goodwill projects - 04-You Can't Hurry My Pad And My Pen.mp3",
-      "bpm": 0,
-      "key": "Unknown",
-      "format": "mp3",
-      "size": "1.5MB",
-      "path": "acapella/the goodwill projects - MoQuannum; Soul To Sole/04.the goodwill projects - 04-You Can't Hurry My Pad And My Pen.mp3"
-    },
-    {
-      "artist": "the goodwill projects - MoQuannum; Soul To Sole",
-      "title": "05.the goodwill projects - 05-Just The Best of My Imagination.mp3",
-      "bpm": 0,
-      "key": "Unknown",
-      "format": "mp3",
-      "size": "3.4MB",
-      "path": "acapella/the goodwill projects - MoQuannum; Soul To Sole/05.the goodwill projects - 05-Just The Best of My Imagination.mp3"
-    },
-    {
-      "artist": "the goodwill projects - MoQuannum; Soul To Sole",
-      "title": "06.the goodwill projects - 06-No Shame On The Dance Floor (feat. Q-Tip).mp3",
-      "bpm": 0,
-      "key": "Unknown",
-      "format": "mp3",
-      "size": "4.1MB",
-      "path": "acapella/the goodwill projects - MoQuannum; Soul To Sole/06.the goodwill projects - 06-No Shame On The Dance Floor (feat. Q-Tip).mp3"
-    },
-    {
-      "artist": "the goodwill projects - MoQuannum; Soul To Sole",
-      "title": "07.the goodwill projects - 07-Intermission 1-Subsoniq.mp3",
-      "bpm": 0,
-      "key": "Unknown",
-      "format": "mp3",
-      "size": "1.3MB",
-      "path": "acapella/the goodwill projects - MoQuannum; Soul To Sole/07.the goodwill projects - 07-Intermission 1-Subsoniq.mp3"
-    },
-    {
-      "artist": "the goodwill projects - MoQuannum; Soul To Sole",
-      "title": "08.the goodwill projects - 08-Papa Put Your Back Into It.mp3",
-      "bpm": 0,
-      "key": "Unknown",
-      "format": "mp3",
-      "size": "4.9MB",
-      "path": "acapella/the goodwill projects - MoQuannum; Soul To Sole/08.the goodwill projects - 08-Papa Put Your Back Into It.mp3"
-    },
-    {
-      "artist": "the goodwill projects - MoQuannum; Soul To Sole",
-      "title": "09.the goodwill projects - 09-Feel THIS Way.mp3",
-      "bpm": 0,
-      "key": "Unknown",
-      "format": "mp3",
-      "size": "4.1MB",
-      "path": "acapella/the goodwill projects - MoQuannum; Soul To Sole/09.the goodwill projects - 09-Feel THIS Way.mp3"
-    },
-    {
-      "artist": "the goodwill projects - MoQuannum; Soul To Sole",
-      "title": "10.the goodwill projects - 10-Gift Of Gab Speaks (Interlude).mp3",
-      "bpm": 0,
-      "key": "Unknown",
-      "format": "mp3",
-      "size": "3.7MB",
-      "path": "acapella/the goodwill projects - MoQuannum; Soul To Sole/10.the goodwill projects - 10-Gift Of Gab Speaks (Interlude).mp3"
-    },
-    {
-      "artist": "the goodwill projects - MoQuannum; Soul To Sole",
-      "title": "11.the goodwill projects - 11-2 Hip Hop Lovers 4 Ya Mind (feat. Motion Man).mp3",
-      "bpm": 0,
-      "key": "Unknown",
-      "format": "mp3",
-      "size": "3.7MB",
-      "path": "acapella/the goodwill projects - MoQuannum; Soul To Sole/11.the goodwill projects - 11-2 Hip Hop Lovers 4 Ya Mind (feat. Motion Man).mp3"
-    },
-    {
-      "artist": "the goodwill projects - MoQuannum; Soul To Sole",
-      "title": "12.the goodwill projects - 12-Fortitude Dancing Machine (feat. Raashan Ahmad).mp3",
-      "bpm": 0,
-      "key": "Unknown",
-      "format": "mp3",
-      "size": "3.3MB",
-      "path": "acapella/the goodwill projects - MoQuannum; Soul To Sole/12.the goodwill projects - 12-Fortitude Dancing Machine (feat. Raashan Ahmad).mp3"
-    },
-    {
-      "artist": "the goodwill projects - MoQuannum; Soul To Sole",
-      "title": "13.the goodwill projects - 13-Intermission 2-Subsoniq.mp3",
-      "bpm": 0,
-      "key": "Unknown",
-      "format": "mp3",
-      "size": "2.0MB",
-      "path": "acapella/the goodwill projects - MoQuannum; Soul To Sole/13.the goodwill projects - 13-Intermission 2-Subsoniq.mp3"
-    },
-    {
-      "artist": "the goodwill projects - MoQuannum; Soul To Sole",
-      "title": "14.the goodwill projects - 14-I Just Want to Celebrate Concentration (feat. Jurassic 5).mp3",
-      "bpm": 0,
-      "key": "Unknown",
-      "format": "mp3",
-      "size": "3.9MB",
-      "path": "acapella/the goodwill projects - MoQuannum; Soul To Sole/14.the goodwill projects - 14-I Just Want to Celebrate Concentration (feat. Jurassic 5).mp3"
-    },
-    {
-      "artist": "the goodwill projects - MoQuannum; Soul To Sole",
-      "title": "15.the goodwill projects - 15-I Heard A Party Through The Grapevine.mp3",
-      "bpm": 0,
-      "key": "A",
-      "format": "mp3",
-      "size": "2.9MB",
-      "path": "acapella/the goodwill projects - MoQuannum; Soul To Sole/15.the goodwill projects - 15-I Heard A Party Through The Grapevine.mp3"
-    },
-    {
-      "artist": "the goodwill projects - MoQuannum; Soul To Sole",
-      "title": "16.the goodwill projects - 16-I'll Be There 4 The Call to Arms.mp3",
-      "bpm": 0,
-      "key": "Unknown",
-      "format": "mp3",
-      "size": "4.2MB",
-      "path": "acapella/the goodwill projects - MoQuannum; Soul To Sole/16.the goodwill projects - 16-I'll Be There 4 The Call to Arms.mp3"
-    },
-    {
-      "artist": "the goodwill projects - Petals Fall But The Flower Endures",
-      "title": "1.the goodwill projects - Petals Fall But The Flower Endures.mp3",
-      "bpm": 0,
-      "key": "Unknown",
-      "format": "mp3",
-      "size": "51.4MB",
-      "path": "acapella/the goodwill projects - Petals Fall But The Flower Endures/1.the goodwill projects - Petals Fall But The Flower Endures.mp3"
+      "size": "1.6MB",
+      "path": "acapella/the goodwill projects - Re-Endtroducing; The Second Album/01.The Goodwill Projects - intro - milorgia - astfdctg.mp3"
     },
     {
       "artist": "the goodwill projects - Re-Endtroducing; The Second Album",
@@ -3468,12 +4710,30 @@
     },
     {
       "artist": "the goodwill projects - Re-Endtroducing; The Second Album",
+      "title": "02.The Goodwill Projects - a love called soul power.mp3",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "mp3",
+      "size": "3.3MB",
+      "path": "acapella/the goodwill projects - Re-Endtroducing; The Second Album/02.The Goodwill Projects - a love called soul power.mp3"
+    },
+    {
+      "artist": "the goodwill projects - Re-Endtroducing; The Second Album",
       "title": "02.the goodwill projects - Shed The Water Number (CTCHMST).mp3",
       "bpm": 0,
       "key": "Unknown",
       "format": "mp3",
       "size": "4.2MB",
       "path": "acapella/the goodwill projects - Re-Endtroducing; The Second Album/02.the goodwill projects - Shed The Water Number (CTCHMST).mp3"
+    },
+    {
+      "artist": "the goodwill projects - Re-Endtroducing; The Second Album",
+      "title": "03.The Goodwill Projects - true nen blues (feat. open mike eagle).mp3",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "mp3",
+      "size": "5.9MB",
+      "path": "acapella/the goodwill projects - Re-Endtroducing; The Second Album/03.The Goodwill Projects - true nen blues (feat. open mike eagle).mp3"
     },
     {
       "artist": "the goodwill projects - Re-Endtroducing; The Second Album",
@@ -3486,12 +4746,39 @@
     },
     {
       "artist": "the goodwill projects - Re-Endtroducing; The Second Album",
+      "title": "04.The Goodwill Projects - yomilo action groove.mp3",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "mp3",
+      "size": "3.2MB",
+      "path": "acapella/the goodwill projects - Re-Endtroducing; The Second Album/04.The Goodwill Projects - yomilo action groove.mp3"
+    },
+    {
+      "artist": "the goodwill projects - Re-Endtroducing; The Second Album",
+      "title": "05.The Goodwill Projects - intermission a - milorgia.mp3",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "mp3",
+      "size": "0.9MB",
+      "path": "acapella/the goodwill projects - Re-Endtroducing; The Second Album/05.The Goodwill Projects - intermission a - milorgia.mp3"
+    },
+    {
+      "artist": "the goodwill projects - Re-Endtroducing; The Second Album",
       "title": "05.the goodwill projects - Interlude (SHDW).mp3",
       "bpm": 0,
       "key": "Unknown",
       "format": "mp3",
       "size": "2.6MB",
       "path": "acapella/the goodwill projects - Re-Endtroducing; The Second Album/05.the goodwill projects - Interlude (SHDW).mp3"
+    },
+    {
+      "artist": "the goodwill projects - Re-Endtroducing; The Second Album",
+      "title": "06.The Goodwill Projects - unforgettable animist.mp3",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "mp3",
+      "size": "4.2MB",
+      "path": "acapella/the goodwill projects - Re-Endtroducing; The Second Album/06.The Goodwill Projects - unforgettable animist.mp3"
     },
     {
       "artist": "the goodwill projects - Re-Endtroducing; The Second Album",
@@ -3504,12 +4791,30 @@
     },
     {
       "artist": "the goodwill projects - Re-Endtroducing; The Second Album",
+      "title": "07.The Goodwill Projects - slow drag scientists (feat. myka 9).mp3",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "mp3",
+      "size": "3.9MB",
+      "path": "acapella/the goodwill projects - Re-Endtroducing; The Second Album/07.The Goodwill Projects - slow drag scientists (feat. myka 9).mp3"
+    },
+    {
+      "artist": "the goodwill projects - Re-Endtroducing; The Second Album",
       "title": "07.the goodwill projects - Nebulas Mutual Eye Slump.mp3",
       "bpm": 0,
       "key": "Unknown",
       "format": "mp3",
       "size": "2.9MB",
       "path": "acapella/the goodwill projects - Re-Endtroducing; The Second Album/07.the goodwill projects - Nebulas Mutual Eye Slump.mp3"
+    },
+    {
+      "artist": "the goodwill projects - Re-Endtroducing; The Second Album",
+      "title": "08.The Goodwill Projects - ayunvenir (feat. hemlock ernst).mp3",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "mp3",
+      "size": "3.9MB",
+      "path": "acapella/the goodwill projects - Re-Endtroducing; The Second Album/08.The Goodwill Projects - ayunvenir (feat. hemlock ernst).mp3"
     },
     {
       "artist": "the goodwill projects - Re-Endtroducing; The Second Album",
@@ -3522,12 +4827,39 @@
     },
     {
       "artist": "the goodwill projects - Re-Endtroducing; The Second Album",
+      "title": "09.The Goodwill Projects - intermission b - milorgia.mp3",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "mp3",
+      "size": "1.0MB",
+      "path": "acapella/the goodwill projects - Re-Endtroducing; The Second Album/09.The Goodwill Projects - intermission b - milorgia.mp3"
+    },
+    {
+      "artist": "the goodwill projects - Re-Endtroducing; The Second Album",
       "title": "09.the goodwill projects - Interlude (LTYRX).mp3",
       "bpm": 0,
       "key": "Unknown",
       "format": "mp3",
       "size": "3.3MB",
       "path": "acapella/the goodwill projects - Re-Endtroducing; The Second Album/09.the goodwill projects - Interlude (LTYRX).mp3"
+    },
+    {
+      "artist": "the goodwill projects - Re-Endtroducing; The Second Album",
+      "title": "1.The Goodwill Projects - A Love Called Soul Power.mp3",
+      "bpm": 0,
+      "key": "A",
+      "format": "mp3",
+      "size": "3.4MB",
+      "path": "acapella/the goodwill projects - Re-Endtroducing; The Second Album/1.The Goodwill Projects - A Love Called Soul Power.mp3"
+    },
+    {
+      "artist": "the goodwill projects - Re-Endtroducing; The Second Album",
+      "title": "10.The Goodwill Projects - an encyclopedia garden.mp3",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "mp3",
+      "size": "5.6MB",
+      "path": "acapella/the goodwill projects - Re-Endtroducing; The Second Album/10.The Goodwill Projects - an encyclopedia garden.mp3"
     },
     {
       "artist": "the goodwill projects - Re-Endtroducing; The Second Album",
@@ -3540,6 +4872,15 @@
     },
     {
       "artist": "the goodwill projects - Re-Endtroducing; The Second Album",
+      "title": "11.The Goodwill Projects - going back to my place (feat. elucid).mp3",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "mp3",
+      "size": "4.6MB",
+      "path": "acapella/the goodwill projects - Re-Endtroducing; The Second Album/11.The Goodwill Projects - going back to my place (feat. elucid).mp3"
+    },
+    {
+      "artist": "the goodwill projects - Re-Endtroducing; The Second Album",
       "title": "11.the goodwill projects - What Does Everyone's Soul Look Like.mp3",
       "bpm": 0,
       "key": "Unknown",
@@ -3549,12 +4890,66 @@
     },
     {
       "artist": "the goodwill projects - Re-Endtroducing; The Second Album",
+      "title": "12.The Goodwill Projects - rabble afrouse.mp3",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "mp3",
+      "size": "1.9MB",
+      "path": "acapella/the goodwill projects - Re-Endtroducing; The Second Album/12.The Goodwill Projects - rabble afrouse.mp3"
+    },
+    {
+      "artist": "the goodwill projects - Re-Endtroducing; The Second Album",
       "title": "12.the goodwill projects - Outro.mp3",
       "bpm": 0,
       "key": "Unknown",
       "format": "mp3",
       "size": "7.8MB",
       "path": "acapella/the goodwill projects - Re-Endtroducing; The Second Album/12.the goodwill projects - Outro.mp3"
+    },
+    {
+      "artist": "the goodwill projects - Re-Endtroducing; The Second Album",
+      "title": "13.The Goodwill Projects - outroyoself.mp3",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "mp3",
+      "size": "2.8MB",
+      "path": "acapella/the goodwill projects - Re-Endtroducing; The Second Album/13.The Goodwill Projects - outroyoself.mp3"
+    },
+    {
+      "artist": "the goodwill projects - Re-Endtroducing; The Second Album",
+      "title": "14.The Goodwill Projects - almost a dust down (bonus).mp3",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "mp3",
+      "size": "3.5MB",
+      "path": "acapella/the goodwill projects - Re-Endtroducing; The Second Album/14.The Goodwill Projects - almost a dust down (bonus).mp3"
+    },
+    {
+      "artist": "the goodwill projects - Re-Endtroducing; The Second Album",
+      "title": "15.The Goodwill Projects - wurlds2run(feat. a. .paak + busdriver (bonus).mp3",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "mp3",
+      "size": "4.9MB",
+      "path": "acapella/the goodwill projects - Re-Endtroducing; The Second Album/15.The Goodwill Projects - wurlds2run(feat. a. .paak + busdriver (bonus).mp3"
+    },
+    {
+      "artist": "the goodwill projects - Re-Endtroducing; The Second Album",
+      "title": "16.The Goodwill Projects - motherboard doldrums (bonus).mp3",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "mp3",
+      "size": "13.8MB",
+      "path": "acapella/the goodwill projects - Re-Endtroducing; The Second Album/16.The Goodwill Projects - motherboard doldrums (bonus).mp3"
+    },
+    {
+      "artist": "Σtella",
+      "title": "Σtella - 80 Days.m4a",
+      "bpm": 0,
+      "key": "Unknown",
+      "format": "m4a",
+      "size": "2.5MB",
+      "path": "acapella/Σtella/Σtella - 80 Days.m4a"
     }
   ]
 }
